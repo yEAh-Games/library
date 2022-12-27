@@ -1,6 +1,6 @@
 ---
 layout: post
-title: POLL: "yEAh Games meetups"
+title: POLL / "yEAh Games meetups"
 date: 2022-06-30 11:06
 author: yeahgamesdevs
 comments: true

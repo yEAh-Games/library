@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OKdex entry: 'Cynthia'
+title: OKdex entry / 'Cynthia'
 date: 2022-06-22 21:52
 author: yeahgamesdevs
 comments: true

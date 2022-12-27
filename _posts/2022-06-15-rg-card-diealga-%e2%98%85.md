@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OKdex entry: 'Diealga [★]'
+title: OKdex entry / 'Diealga [★]'
 date: 2022-06-15 17:27
 author: yeahgamesdevs
 comments: true

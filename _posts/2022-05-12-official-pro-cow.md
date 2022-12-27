@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Official 'Pro Cow'
+title: Other useful information / Official 'Pro Cow'
 date: 2022-05-12 09:08
 author: guyman147
 comments: true

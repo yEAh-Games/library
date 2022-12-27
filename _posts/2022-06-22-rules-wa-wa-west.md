@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RULES: "Wa Wa West ++"
+title: RULES / "Wa Wa West ++"
 date: 2022-06-22 20:53
 author: yeahgamesdevs
 comments: true
