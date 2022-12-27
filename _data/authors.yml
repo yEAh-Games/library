@@ -1,5 +1,17 @@
-1:
+#yEAh Games (default; and must be author for all archive posts; however, any archivists involved with archiving that post can feel free to add their author ID ALONG with the yeahgames author ID.)
+yeahgames:
   name: yEAh Games
   twitter: yEAhGames_
-  url: https://yeahgames.net
+  url: https://github.com/yEAh-Games
 
+#Tallinn (lead archivist)
+tallinn:
+  name: Tallinn
+  twitter: reallygondola
+  url: https://github.com/nnilat  
+
+#Aidan (archivist 2)
+aidan:
+  name: Aidan
+  twitter: aidanundone
+  url: https://github.com/undonesundew
