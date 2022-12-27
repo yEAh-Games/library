@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ARCHIVED ANN.: "yEAh Games Weebly website"
+title: ARCHIVED ANN. / "yEAh Games Weebly website"
 date: 2022-07-14 12:40
 author: yeahgamesdevs
 comments: true

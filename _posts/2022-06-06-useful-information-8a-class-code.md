@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Useful Information: 8A Class Code
+title: Useful Information / 8A Class Code
 date: 2022-06-06 09:08
 author: deezmoms
 comments: true

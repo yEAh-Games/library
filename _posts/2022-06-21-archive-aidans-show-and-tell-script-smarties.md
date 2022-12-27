@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ARCHIVE: "Aidan's Show and Tell Script: 'Smarties'."
+title: ARCHIVE / "Aidan's Show and Tell Script -- 'Smarties'."
 date: 2022-06-21 15:38
 author: deezmoms
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Useful Information: Upcoming Dates • June 2022
+title: Useful Information / Upcoming Dates • June 2022
 date: 2022-06-01 04:20
 author: guyman147
 comments: true

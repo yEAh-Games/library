@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OUR BOTS: YeeBot
+title: OUR BOTS / YeeBot
 date: 2022-07-14 18:45
 author: yeahgamesdevs
 comments: true
