@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JSON: Server rules
+title: JSON / Server rules
 date: 2022-04-16 17:47
 author: yeahgamesdevs
 comments: true
