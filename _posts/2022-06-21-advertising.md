@@ -8,7 +8,7 @@ tags: [ads, new-feature, yollars]
 categories: [News/announcements, Other useful information, Advertisements]
 ---
 <style>
-    #frame {
+div {
         -ms-zoom: 0.75;
         -moz-transform: scale(0.75);
         -moz-transform-origin: 0 0;
@@ -26,4 +26,6 @@ categories: [News/announcements, Other useful information, Advertisements]
 
 
 # Page content
+<div>
 <iframe src="https://docs-collections.yeahgames.net/docs/advertising/about#advertising-with-yeah-games-and-its-subsidiaries" style="border:2px #ff4747 solid;" name="myiFrame" scrolling="yes" frameborder="1" marginheight="0px" marginwidth="0px" height="1000px" width="767px" allowfullscreen></iframe>
+</div>
