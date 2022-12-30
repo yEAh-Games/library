@@ -44,7 +44,6 @@ categories: [News/announcements, Other useful information, Advertisements]
 
 
 # Page content
-<div style="webkit-overflow-scrolling: touch;
-     overflow: auto;">
-<iframe src="https://docs-collections.yeahgames.net/docs/advertising/about#advertising-with-yeah-games-and-its-subsidiaries" style="border:2px #ff4747 solid;" name="iframe" scrolling="yes" frameborder="1" marginheight="0px" marginwidth="0px" height="1000px" width="767px" allowfullscreen></iframe>
+<div style="webkit-overflow-scrolling: touch; overflow: auto;">
+<iframe src="https://docs-collections.yeahgames.net/docs/advertising/about#advertising-with-yeah-games-and-its-subsidiaries"></iframe>
 </div>
