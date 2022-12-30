@@ -15,7 +15,7 @@ categories: [News/announcements, Other useful information, Advertisements]
 
 
 
-# Page content
+# Content
 <div class="iframe-container"> 
   <iframe class="responsive-iframe" src="https://docs.yeahgames.net/docs/advertising/about#advertising-with-yeah-games-and-its-subsidiaries"></iframe>
 </div>
