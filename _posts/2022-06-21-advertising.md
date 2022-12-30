@@ -9,7 +9,7 @@ categories: [News/announcements, Other useful information, Advertisements]
 ---
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-.container {
+.iframe-container {
   position: relative;
   width: 100%;
   overflow: hidden;
@@ -36,6 +36,6 @@ categories: [News/announcements, Other useful information, Advertisements]
 
 
 # Page content
-<div class="container"> 
+<div class="iframe-container"> 
   <iframe class="responsive-iframe" src="https://www.youtube.com/embed/tgbNymZ7vqY"></iframe>
 </div>
