@@ -1,0 +1,1 @@
+{% include redirect-docs.html %}
