@@ -1,5 +1,5 @@
 ---
-layout: archives-cdn
+layout: a-cdn
 icon: fas fa-file
 order: 9
 ---
