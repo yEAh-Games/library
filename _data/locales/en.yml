@@ -20,7 +20,7 @@ tabs:
 search:
   hint: search
   cancel: Cancel
-  no_results: Oops! No results found.
+  no_results: No results matching your search term were found. Try searching with a different term.
 
 panel:
   lastmod: Recently Updated
