@@ -1,27 +1,26 @@
 ---
-layout: page
-title: ABOUT THE ARCHIVES
+layout: post
+title: About archiving with yEAh Games
 date: 2022-04-03 18:01
-author: yeahgamesdevs
+author: yeahgames
 comments: true
 categories: []
+tags: [archives, archiving, library]
 ---
-<!-- wp:paragraph -->
-<p>The yEAh Games archives are a system designed to make sure we (yEAh Games) never lose important data. It will often be used in Ycourt trials as evidence, or as research documents.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p><a href="http://yeaharchives.wordpress.com">Home</a> is where anything, no matter the subject, shows up that was recently archived. Use that for the most up-to-date information.</p>
-<!-- /wp:paragraph -->
+{% include iframe-docs.html %}
 
-<!-- wp:paragraph -->
-<p>We also sort all of our archives into categories; click on the 'menu' buttons at the top of the page to view all the different categories of archives.</p>
-<!-- /wp:paragraph -->
+> This catalogue item is hosted in the **Docs** external collection at **[docs.yeahgames.net](https://docs.yeahgames.net/docs/archives/about)**.
+{: .prompt-tip }
 
-<!-- wp:paragraph -->
-<p>Anything important will be recorded in its separate article here. If you need any information relating to yEAh Games that it is not in the server, you'll find it here. </p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p>We may also post special, this-site-only information here; make sure to check frequently.<br><br>If you are a yEAh Games employee (or member) and would like to archive information for this site, visit <a href="https://yeaharchives.wordpress.com/start-archiving/">this page</a>.</p>
-<!-- /wp:paragraph -->
+
+# Content
+<div class="iframe-container"> 
+  <iframe class="responsive-iframe" src="https://docs.yeahgames.net/docs/archives/about"></iframe>
+</div>
+
+# About external items
+
+> You are on the main library and are viewing an item in our catalogue that is stored in an external collection. The [yEAh Games main library](https://library.yeahgames.net)'s purpose is to provide a medium for regular users to be able to browse through *all* the Archives' content in one place; but, in reality, most of our content catalogue is hosted on external, separate Library collections and are simply embedded onto the main browsable Library. If you're interested, need more information, or something isn't working as intended, we recommend you visit the catalogue item's external host page, linked at the top of this page.
+{: .prompt-info }
