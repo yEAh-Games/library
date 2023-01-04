@@ -2,7 +2,6 @@
 layout: page
 # The Home page layout
 ---
-{% include networknav.html %}
 {% assign pinned = site.posts | where: "pin", "true" %}
 {% assign default = site.posts | where_exp: "item", "item.pin != true and item.hidden != true" %}
 
