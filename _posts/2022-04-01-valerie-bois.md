@@ -4,7 +4,7 @@ title: Valerie Bois
 date: 2022-04-01 21:14
 author: yeahgamesdevs
 comments: true
-categories: [Collection: Encyclopedia, People, Teachers]
+categories: [Collection﹕Encyclopedia, People, Teachers]
 tags: [mme-bois]
 ---
 <!-- wp:paragraph -->

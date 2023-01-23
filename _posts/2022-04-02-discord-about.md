@@ -4,7 +4,7 @@ title: DISCORD — ABOUT
 date: 2022-04-02 11:35
 author: yeahgamesdevs
 comments: true
-categories: [Collection: Docs, Discord]
+categories: [Collection﹕Docs, Discord]
 ---
 {% include iframe-docs.html %}
 
