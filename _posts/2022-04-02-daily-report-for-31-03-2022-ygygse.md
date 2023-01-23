@@ -4,7 +4,7 @@ title: Daily report for 31/03/2022 / YG-YGSE
 date: 2022-04-02 18:19
 author: yeahgames
 comments: true
-categories: [Collection: Finance, Stocks, Reports, YG-YGSE]
+categories: [Collection﹕Finance, Stocks, Reports, YG-YGSE]
 tags: [investing, news, reports, yg]
 ---
 <!-- wp:paragraph -->
