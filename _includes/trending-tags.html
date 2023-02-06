@@ -44,7 +44,6 @@
     {% for tag_name in trending_tags %}
       {% assign url = tag_name | slugify | url_encode | prepend: "/tags/" | append: "/" %}
       <a class="post-tag" href="{{ url | relative_url }}">{{ tag_name }}</a>
-      <a href="https://ads.yeahgames.net/ad/click/library/id=xCNUnk3VY0SxzLP"><img src="https://ads.yeahgames.net/source/library/id=xCNUnk3VY0SxzLP/ad.webp"></a>
 
       {% endfor %}
 
