@@ -1,5 +1,7 @@
 # The Site Configuration
 
+
+
 # Import the theme
 theme: jekyll-theme-chirpy
 
@@ -198,3 +200,6 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+    
+plugins:
+  - jekyll-redirect-from
