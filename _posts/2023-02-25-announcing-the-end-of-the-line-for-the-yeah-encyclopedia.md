@@ -15,7 +15,7 @@ As we work on migrating to the yEAh Games Network, we've encountered a dilemma: 
 Once the start of the Archives as a service to archive and view details of prominent individuals in or associated with yEAh Games, the service has not met our standards, and as such, to prioritize new innovation, we will be slowly rolling out the termination of the service.
 
 We will be archiving the already-published pages in the [Digital Artifact Archive](https://artifacts.yeahgames.net), but no longer will we accept new submissions for pages.
-{% include 2022-02-25-announcing-the-end-of-the-line-for-the-yeah-encyclopedia.html %}
+{% include redirects/2022-02-25-announcing-the-end-of-the-line-for-the-yeah-encyclopedia.html %}
 
 #### Our message
 
