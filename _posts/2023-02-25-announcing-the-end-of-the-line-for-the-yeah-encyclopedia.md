@@ -6,8 +6,9 @@ author: [tallinn, yeahgames]
 categories: [Collection˸ News, News/announcements, Official, Products]
 image: https://news.yeahgames.net/archive/img/encyclopedias.jpg
 tags: [featured, sticky, retirement]
-summary: "After a long tenure, we've announced we will be retiring the yEAh Games Encyclopedia as part of the Archives. This comes after a lengthy discussion, but ultimately, we've decided that it's best for the company."
-
+external
+hidden: false
+external: https://news.yeahgames.net/news/announcing-the-end-of-the-line-for-the-yeah-encyclopedia 
 ---
 
 After a long tenure, we've announced we will be retiring the yEAh Games Encyclopedia as part of the Archives. This comes after a lengthy discussion, but ultimately, we've decided that it's best for the company.
@@ -17,7 +18,6 @@ As we work on migrating to the yEAh Games Network, we've encountered a dilemma: 
 Once the start of the Archives as a service to archive and view details of prominent individuals in or associated with yEAh Games, the service has not met our standards, and as such, to prioritize new innovation, we will be slowly rolling out the termination of the service.
 
 We will be archiving the already-published pages in the [Digital Artifact Archive](https://artifacts.yeahgames.net), but no longer will we accept new submissions for pages.
-{% include redirects/2022-02-25-announcing-the-end-of-the-line-for-the-yeah-encyclopedia.html %}
 
 #### Our message
 
