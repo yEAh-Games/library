@@ -8,9 +8,6 @@ tail_includes:
   - post-nav
   - comments
 ---
-  {% if page.external %}
-  <meta http-equiv="refresh" content="0;URL='{{page.external}}'" />  
-  {% endif %}    
   {% if page.hidden == "true" %}
   <meta name="robots" content="noindex,nofollow" />
   {% endif %}

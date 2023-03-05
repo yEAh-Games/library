@@ -6,7 +6,7 @@ author: [tallinn, yeahgames]
 categories: [Collection˸ News, News/announcements, Official, Products]
 image: https://news.yeahgames.net/archive/img/encyclopedias.jpg
 tags: [featured, sticky, retirement]
-external: https://news.yeahgames.net/news/announcing-the-end-of-the-line-for-the-yeah-encyclopedia 
+link: https://news.yeahgames.net/news/announcing-the-end-of-the-line-for-the-yeah-encyclopedia 
 ---
 
 After a long tenure, we've announced we will be retiring the yEAh Games Encyclopedia as part of the Archives. This comes after a lengthy discussion, but ultimately, we've decided that it's best for the company.
