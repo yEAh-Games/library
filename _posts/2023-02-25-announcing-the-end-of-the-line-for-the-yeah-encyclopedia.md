@@ -3,11 +3,11 @@ layout: post
 date: 2023-02-25 12:30
 title:  "Announcing the end of the line for the yEAh Encyclopedia"
 author: [tallinn, yeahgames]
-categories: [Collection˸ News, News/announcements, Official, Products]
+categories: [News/announcements, Official, Products]
 image: https://news.yeahgames.net/archive/img/encyclopedias.jpg
 tags: [featured, sticky, retirement]
 link: https://news.yeahgames.net/news/announcing-the-end-of-the-line-for-the-yeah-encyclopedia 
-c: Artifacts
+c: News
 ---
 
 After a long tenure, we've announced we will be retiring the yEAh Games Encyclopedia as part of the Archives. This comes after a lengthy discussion, but ultimately, we've decided that it's best for the company.
