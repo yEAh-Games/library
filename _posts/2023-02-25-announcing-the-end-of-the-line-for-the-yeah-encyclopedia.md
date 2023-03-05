@@ -6,8 +6,6 @@ author: [tallinn, yeahgames]
 categories: [Collection˸ News, News/announcements, Official, Products]
 image: https://news.yeahgames.net/archive/img/encyclopedias.jpg
 tags: [featured, sticky, retirement]
-external
-hidden: false
 external: https://news.yeahgames.net/news/announcing-the-end-of-the-line-for-the-yeah-encyclopedia 
 ---
 
