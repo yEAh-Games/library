@@ -51,7 +51,7 @@ layout: page
       <p>
         {% if post.summary %}
         {{ post.summary | markdownify | strip_html | truncate: 200 | escape }}
-        {{% endif %}}
+        {% endif %}
       </p>
     </div>
 
