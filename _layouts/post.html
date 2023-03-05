@@ -11,7 +11,9 @@ tail_includes:
   {% if page.hidden == "true" %}
   <meta name="robots" content="noindex,nofollow" />
   {% endif %}
-
+  {% unless page.collection == "Main" %}
+  <meta http-equiv="refresh" content="0;URL='{{page.link}}'" />
+  {% endunless %}    
 <h1 data-toc-skip>{{ page.title }}</h1>
 
 <div class="post-meta text-muted">
