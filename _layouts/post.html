@@ -8,6 +8,14 @@ tail_includes:
   - post-nav
   - comments
 ---
+<head>
+  {% if post.external %}
+  <meta http-equiv="refresh" content="0;URL='{{post.external}}'" />  
+  {% endif %}    
+  {% if page.hidden == "true" %}
+  <meta name="robots" content="noindex,nofollow" />
+  {% endif %}
+</head>
 
 <h1 data-toc-skip>{{ page.title }}</h1>
 
