@@ -2,7 +2,7 @@
 layout: post
 date: 2023-02-25 12:30
 title:  "Announcing the end of the line for the yEAh Encyclopedia"
-author: [tallinn, yeahgames]
+author: tallinn
 categories: [News/announcements, Official, Products]
 image: https://news.yeahgames.net/archive/img/encyclopedias.jpg
 tags: [featured, sticky, retirement]
