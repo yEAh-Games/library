@@ -43,9 +43,9 @@ layout: page
 {% for post in posts %}
 
   <div class="post-preview">
-    <h1>
+    <b><h1>
       <a href="{{post.link}}">{{ post.title }}</a>
-    </h1>
+    </h1></b>
 
     <div class="post-content">
       <p>
@@ -61,18 +61,18 @@ layout: page
         <i class="far fa-calendar fa-fw"></i>
         {% include datetime.html date=post.date %}
         <i class="fa-solid fa-user"></i>
-        <a href="//members.yeahgames.net/@{{post.author | remove: 'devs' | replace: 'tallinn', 'nnillat' | replace: 'aidan', 'undone'}}">@{{ post.author | remove: 'devs' | replace: 'tallinn', 'nnillat' | replace: 'aidan', 'undone'}}</a>
+        <a href="//members.yeahgames.net/@{{post.author | remove: 'devs' | replace: 'tallinn', 'nnillat' | replace: 'aidan', 'undone'}}"><font color="#5e9c00">@{{ post.author | remove: 'devs' | replace: 'tallinn', 'nnillat' | replace: 'aidan', 'undone'}}</font></a>
         
 
         <i class="fa-solid fa-box-open"></i>
-        <a href="//{{post.c}}.yeahgames.net">{{ post.c }}</a>
+        <a href="//{{post.c}}.yeahgames.net"><font color="#5e9c00">{{ post.c }}</font></a>
 
         <!-- categories -->
         {% if post.categories.size > 0 %}
           <i class="far fa-folder-open fa-fw"></i>
           <span>
           {% for category in post.categories %}
-          <a href='{{ site.baseurl }}/categories/{{ category | slugify | url_encode }}/'>{{ category }}</a>
+          <a href='{{ site.baseurl }}/categories/{{ category | slugify | url_encode }}/'><font color="#5e9c00">{{ category }}</font></a>
             {%- unless forloop.last -%},{%- endunless -%}
           {% endfor %}
           </span>
