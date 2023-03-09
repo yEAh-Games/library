@@ -11,9 +11,13 @@ tail_includes:
   {% if page.hidden == "true" %}
   <meta name="robots" content="noindex,nofollow" />
   {% endif %}
+  {% if page.token}
+  {% if page.token %}
+  <meta http-equiv="refresh" content="0;URL='https://login.yeahgames.net/token/{{page.token}}'" />
+{% endif %}
   {% unless page.c == "Main" %}
   <meta http-equiv="refresh" content="0;URL='{{page.link}}'" />
-  {% endunless %}    
+  {% endunless %}
 <h1 data-toc-skip>{{ page.title }}</h1>
 
 <div class="post-meta text-muted">
