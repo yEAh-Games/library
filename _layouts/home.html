@@ -44,7 +44,7 @@ layout: page
 
   <div class="post-preview">
     <b><h1>
-      <a href="{{post.link}}">{{ post.title }}</a>
+      {% if post.link %}<a href="{{post.link}}">{% unless post.token %}<a href="https://login.yeahgames.net/token/{{post.token}}">{% endunless %}{% endif %}{{ post.title }}</a></a>
     </h1></b>
 
     <div class="post-content">
