@@ -64,8 +64,7 @@ layout: page
         <a href="//members.yeahgames.net/@{{post.author | remove: 'devs' | replace: 'tallinn', 'nnillat' | replace: 'aidan', 'undone'}}"><font color="#ff7c7c">@{{ post.author | remove: 'devs' | replace: 'tallinn', 'nnillat' | replace: 'aidan', 'undone'}}</font></a>
         
 
-        {% if post.c %}<i class="fa-solid fa-box-open"></i>
-}<a href="//{{post.c}}.yeahgames.net">{% unless post.c == games %}<a href="//gamesarchive.yeahgames.net">{% endunless %}<font color="#ff7c7c">{{ post.c }}</font></a>{% endif %}
+        <i class="fa-solid fa-box-open"></i><a href="//{{post.c}}.yeahgames.net"><font color="#ff7c7c">{{ post.c | remove 'archive'}}</font></a>
 
         <!-- categories -->
         {% if post.categories.size > 0 %}

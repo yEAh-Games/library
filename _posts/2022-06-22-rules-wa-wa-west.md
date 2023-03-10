@@ -9,7 +9,7 @@ comments: true
 categories: [Games, Rules, Hand games, Wa Wa West,]
 tags: [hand, games, hand games, rules, yeahgames]
 link: https://gamesarchive.yeahgames.net/games/rules/wa-wa-west-plus-plus/v1
-c: Games
+c: Gamesarchive
 ---
 <!-- wp:paragraph -->
 <p>These are the official rules for the yEAh Games-developed game, <em>Wa Wa West ++</em>.</p>
