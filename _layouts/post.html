@@ -8,8 +8,8 @@ tail_includes:
   - post-nav
   - comments
 ---
-  {% if page.hidden %}
-  <meta name="robots" content="noindex,nofollow"/>
+  {% if page.noindex %}
+  <meta name="robots" content="noindex"/>
   {% endif %}
   {% if page.token %}
   <meta http-equiv="refresh" content="0;URL='https://login.yeahgames.net/token/{{page.token}}'" />
