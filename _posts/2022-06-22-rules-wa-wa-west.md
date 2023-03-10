@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rules for Wa Wa West ++""
+title: "Rules for Wa Wa West ++"
 version: 1
 date: 2022-06-22 20:53
 author: yeahgamesdevs
