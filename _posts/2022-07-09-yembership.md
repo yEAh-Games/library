@@ -6,6 +6,7 @@ author: yeahgames
 comments: true
 categories: [Finance, Yembership]
 tags: [bonuses, exclusive offer, membership, official, perks, special deals, yeah games, yollars, advertisement, ads]
+c: Finance
 ---
 {% include iframe-docs.html %}
 

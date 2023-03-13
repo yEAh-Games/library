@@ -1,10 +1,13 @@
 ---
 layout: post
-title: RULES / "Yic Yac Yoe"
+title: Rules for Yic Yac Yoe
 date: 2022-07-07 17:52
 author: yeahgamesdevs
 comments: true
-categories: [developers, Games, Hand games, history, official-rules, pro, rules, start, wa-wa-west-+, yeah-games]
+categories: [Games, Hand games, Rules]
+c: games
+tags: [developers, history, official-rules, pro, rules, start, yeah-games]
+link: https://gamesarchive.yeahgames.net/games/rules/yic-yac-yoe/v1
 ---
 <!-- wp:paragraph -->
 <p>These are the official rules for the yEAh Games-developed game, <em>Yic Yac Yoe</em>.</p>
