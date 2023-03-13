@@ -1,10 +1,13 @@
 ---
 layout: post
-title: ARCHIVED ANN. / "yEAh Games Weebly website"
-date: 2022-07-14 12:40
+title: Introducing the yEAh Games Weebly website!
+date: 2021-12-05 12:40
 author: yeahgamesdevs
 comments: true
-categories: [announcement, Archived, archives, News/announcements, official, Old announcements, old-announcement]
+categories: [Archived, News/announcements, Old announcements]
+link: https://news.yeahgames.net/news/archived-ann-yeah-games-weebly-website/
+c: News
+tags: [announcement, archives, official, old-announcement]
 ---
 <!-- wp:paragraph -->
 <p><strong>Note:</strong><br><em>This announcement is an <strong>old</strong> announcement. It is purely being archived for the sake of having it somewhere safe, permanently. The announcement may be completely out-of-date or not make sense in the current context. </em><br><em>This was an announcement that was originally posted on our official <a href="https://yeaharchives.wordpress.com/discord-about/">yEAh Games Discord server</a> in the <a href="https://discord.com/channels/887052880782176266/887066216093605910">#announcements</a> channel.</em> <em>It has been archived to a post on this website, so certain information may not make sense in this context.</em> <em>The website post's date may also not reflect the actual announcement's post date.</em><br><em><strong>As always, check the server for the most-up-to-date information.</strong></em></p>

@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Fanart / "Pro flag of yEAh games" by Guyman147#0719
+title: "«'Pro flag of yEAh games' (Fanart)»"
 date: 2022-06-26 21:14
 author: yeahgamesdevs
 comments: true
-categories: [among us, Fanart, flag, imposter, impostor, pro, sus, sussy]
+categories: [Artifacts, Fanart]
+tags: [among us, flag, imposter, impostor, pro, sus, sussy]
+c: Artifacts
 ---
 <!-- wp:paragraph -->
 <p>This is an archive of fanart submitted on our Discord server by <code>Guyman147#0719</code>, on the 26th of June, 2022. It is titled <em>Pro flag of yEAh Games</em>.</p>

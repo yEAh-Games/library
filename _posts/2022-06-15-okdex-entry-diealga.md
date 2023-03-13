@@ -1,10 +1,13 @@
 ---
 layout: post
-title: OKdex entry / 'Diealga [★]'
+title: OKdex﹕Diealga
 date: 2022-06-15 17:27
 author: yeahgamesdevs
 comments: true
-categories: [Card games, diealga, Games, Gen. 2, Legendary, okedex, okmon, OKmon cards, prokedex, Random Guy TCG]
+categories: [Games, Card games, Random Guy TCG, Gen. 2, Legendary]
+tags: [diealga, okedex, okmon, okdex, okmon cards, prokedex, prokdex]
+C: Games
+link: https://gamesarchive.yeahgames.net/games/random-guy/info/okdex/diealga
 ---
 <!-- wp:paragraph -->
 <p>This is the official OKdex (Prokédex) entry for <em>Diealga</em>.</p>

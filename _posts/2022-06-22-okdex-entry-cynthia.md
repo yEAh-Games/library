@@ -1,10 +1,13 @@
 ---
 layout: post
-title: OKdex entry / 'Cynthia'
+title: OKdex﹕Cynthia
 date: 2022-06-22 21:52
 author: yeahgamesdevs
 comments: true
-categories: [Card games, Games, gen-1, Gen. 1, normal, okdex, okedex, okmon, OKmon cards, prokedex, Random Guy TCG]
+categories: [Games, Card games, Random Guy TCG, Gen. 1]
+tags: [gen-1, normal, okdex, okedex, okmon, okmon cards, prokedex, prokdex]
+link: https://gamesarchive.yeahgames.net/games/random-guy/info/okdex/cynthia
+C: Games
 ---
 <!-- wp:paragraph -->
 <p>This is the official OKdex (Prokédex) entry for <em>Cynthia</em>.</p>
