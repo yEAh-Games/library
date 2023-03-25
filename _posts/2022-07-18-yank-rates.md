@@ -1,10 +1,17 @@
 ---
 layout: post
-title: FINANCE / Yank rates
+title: Current Yank of yEAh Games financial rates
 date: 2022-07-18 20:46
 author: yeahgamesdevs
 comments: true
-categories: [Docs, featured, Finance, finance-docs, Yank, yollars, Yollars-related]
+categories: [Yank, Finance, Docs,]
+category: Docs
+tags: [docs, yollars, rates]
+image: /archive/img/item/yank-rates/featured.png
+redirect_from:
+  - /item/yank-rates/
+link: https://yankarchive.yeahgames.net/docs/live/rates
+C: Yank
 ---
 <!-- wp:paragraph -->
 <p>These are the official rates for various finance-related yEAh Games features. Some vary over time; some will stay the same. Check the bot command <code>yeahrates</code> for live updates.</p>

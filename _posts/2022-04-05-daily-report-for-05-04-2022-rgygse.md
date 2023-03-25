@@ -1,13 +1,18 @@
 ---
 layout: post
-title: Daily report for 06/04/2022 / YNK-YGSE
-date: 2022-04-16 08:50
+title: Daily report for RG-YGSE﹕05/04/2022
+date: 2022-04-05 08:50
 author: yeahgamesdevs
 comments: true
-categories: [bank, Daily reports, Finance, investing, news, reports, Stocks, Yank, ynk, YNK-YGSE, yollars, yoney]
+categories: [Daily reports, Finance, investing, news, reports, rg, RG-YGSE, Stocks]
+image: /archive/img/reports/daily/rg/05-04-2022.png
+link: https://yankarchive.yeahgames.net/stocks/reports/daily/rg/2022/04/05
+c: Yank
+redirect_from:
+  - /item/daily-report-for-05-04-2022-rgygse
 ---
 <!-- wp:paragraph -->
-<p>This is the daily report for <code>The Yank of yEAh Games</code> <code>(YNK:YGSE)</code> on the yEAh Games Stock Exchange (YGSE), on <code>Wednesday, the 6th of March, 2022</code>.<br><em>Full stock history for this company can be viewed here.</em></p>
+<p>This is the daily report for <code>Random Guy TCG</code> <code>(RG:YGSE)</code> on the yEAh Games Stock Exchange (YGSE), on <code>Tuesday, the 5th of April, 2022</code>.<br><em>Full stock history for this company can be viewed here.</em></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -24,7 +29,7 @@ categories: [bank, Daily reports, Finance, investing, news, reports, Stocks, Yan
 
 <!-- wp:buttons -->
 <div class="wp-block-buttons"><!-- wp:button {"textColor":"vivid-cyan-blue","style":{"border":{"radius":"18px"}}} -->
-<div class="wp-block-button"><a class="wp-block-button__link has-vivid-cyan-blue-color has-text-color" href="https://discord.com/channels/887052880782176266/956148633475092520/961441629464563712" style="border-radius:18px;"><strong>ORIGINAL DISCORD POST</strong></a></div>
+<div class="wp-block-button"><a class="wp-block-button__link has-vivid-cyan-blue-color has-text-color" href="https://discord.com/channels/887052880782176266/956148633475092520/961077890533965884" style="border-radius:18px;"><strong>ORIGINAL DISCORD POST</strong></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
 
@@ -37,23 +42,23 @@ categories: [bank, Daily reports, Finance, investing, news, reports, Stocks, Yan
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Individual share price: </strong><code>¥ 170.82118</code></p>
+<p><strong>Individual share price: </strong><code>¥ 0</code></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 <p><strong><strong>Price change since previous close:</strong></strong></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph {"textColor":"vivid-green-cyan"} -->
-<p class="has-vivid-green-cyan-color has-text-color"><code>▲ today</code><br><code>+170.82118 (+170.82118%)</code></p>
+<!-- wp:paragraph {"textColor":"luminous-vivid-orange"} -->
+<p class="has-luminous-vivid-orange-color has-text-color"><code>► today</code><br><code>—0 (—0%)</code></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Shares sold (at time of report): </strong><br><code>42/42 (100%)</code><br><code>0</code> in possession of the Yank</p>
+<p><strong>Shares sold (at time of report): </strong><br><code>3/3 (100%)</code><br><code>0</code> in possession of the Yank</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Company valuation</strong>:<br><code>¥ 7174.48956</code><br><code>42</code> shares sold</p>
+<p><strong>Company valuation</strong>:<br><code>¥ 0</code><br><code>3</code> shares sold</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -61,11 +66,11 @@ categories: [bank, Daily reports, Finance, investing, news, reports, Stocks, Yan
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Share possession (at time of report)</strong>:<br><code>Brehden Holdings, Inc.#4543</code> <code>(@953083567947280444)</code>: <code>42</code> holdings; <code>100%</code> of the company</p>
+<p><strong>Share possession (at time of report)</strong>:<br><code>Brehden Holdings, Inc.#4543</code> <code>(@953083567947280444)</code>: <code>3</code> holdings; <code>100%</code> of the company</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Notes:</strong><br><em>No specific notes</em></p>
+<p><strong>Notes:</strong><br>— Weekly close is only at 0 because the price <em>was</em> 0 on Sunday. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -73,27 +78,23 @@ categories: [bank, Daily reports, Finance, investing, news, reports, Stocks, Yan
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Records broken (at time of report):</strong><br><em>none</em></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><strong>Raw data:</strong><br>Percent of messages: <code>0.550584997%</code><br>Number of messages: <code>8</code><br>Number of shares: <code>42</code><br>$CAD to ¥YAY exchange rate: <code>$CAD 1.0 = ¥YAY 1250.0</code> </p>
+<p><strong>Raw data:</strong><br>Percent of messages: <code>0%</code><br>Number of messages: <code>0</code><br>Number of shares: <code>3</code><br>$CAD to ¥YAY exchange rate: <code>$CAD 1.0 = ¥YAY 1250.0</code> </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 <p><strong>Weekly graph (as of time of report):</strong></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":373,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://yeaharchives.files.wordpress.com/2022/04/image-71.png?w=540" alt="" class="wp-image-373" /></figure>
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://media.discordapp.net/attachments/956148633475092520/961077889728651284/unknown.png?width=540&amp;height=334" alt="" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
 <p><strong>All-time graph (as of time of report)</strong>:</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":374,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://yeaharchives.files.wordpress.com/2022/04/image-72.png?w=600" alt="" class="wp-image-374" /></figure>
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://media.discordapp.net/attachments/962333178138341416/962333283797065758/unknown.png?width=540&amp;height=334" alt="" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

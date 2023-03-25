@@ -1,13 +1,18 @@
 ---
 layout: post
-title: Daily report for 02/04/2022 / BOTS-YGSE
-date: 2022-04-04 07:33
+title: Daily report for BOTS-YGSE﹕31/03/2022
+date: 2022-04-03 20:18
 author: yeahgamesdevs
 comments: true
 categories: [bots, BOTS-YGSE, Daily reports, discord-bots, Finance, investing, news, reports, Stocks]
+image: /archive/img/reports/daily/bots/31-03-2022.png
+link: https://yankarchive.yeahgames.net/stocks/reports/daily/bots/2022/03/31
+c: Yank
+redirect_from:
+  - /item/daily-report-for-31-03-2022-botsygse
 ---
 <!-- wp:paragraph -->
-<p>This is the daily report for <code>yEAh Games' BOTS</code> <code>(BOTS:YGSE)</code> on the yEAh Games Stock Exchange (YGSE), on <code>Saturday, the 1st of April, 2022</code>.<br><em>Full stock history for this company can be viewed here.</em></p>
+<p>This is the daily report for <code>yEAh Games' BOTS</code> <code>(BOTS:YGSE)</code> on the yEAh Games Stock Exchange (YGSE), on <code>Thursday, the 31st of March, 2022</code>.<br><em>Full stock history for this company can be viewed here.</em></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -37,15 +42,15 @@ categories: [bots, BOTS-YGSE, Daily reports, discord-bots, Finance, investing, n
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Individual share price: </strong><code>¥ 631.91833</code></p>
+<p><strong>Individual share price: </strong><code>¥ 690.77807</code></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 <p><strong><strong>Price change since previous close:</strong></strong></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph {"textColor":"vivid-green-cyan"} -->
-<p class="has-vivid-green-cyan-color has-text-color"><code>▲ today</code><br><code>+574.459674 (+999.77917%)</code></p>
+<!-- wp:paragraph {"textColor":"vivid-red"} -->
+<p class="has-vivid-red-color has-text-color"><code>▼ today</code><br><code>—344.89494 (—33.3015282%)</code></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -53,7 +58,7 @@ categories: [bots, BOTS-YGSE, Daily reports, discord-bots, Finance, investing, n
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Company valuation</strong>:<br><code>¥ 316591.083</code><br><code>501</code> shares sold</p>
+<p><strong>Company valuation</strong>:<br><code>¥ 346079.813</code><br><code>501</code> shares sold</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -73,23 +78,23 @@ categories: [bots, BOTS-YGSE, Daily reports, discord-bots, Finance, investing, n
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Raw data:</strong><br>Percent of messages: <code>32.9411765%</code><br>Number of messages: <code>56</code><br>Number of shares: <code>42467</code><br>$CAD to ¥YAY exchange rate: <code>$CAD 1.0 = ¥YAY 1250.0</code> </p>
+<p><strong>Raw data:</strong><br>Percent of messages: <code>12.8364389%</code><br>Number of messages: <code>62</code><br>Number of shares: 42467<br>$CAD to ¥YAY exchange rate: <code>$CAD 1.0 = ¥YAY 1250.0</code> </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 <p><strong>Weekly graph (as of time of report):</strong></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":172,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://yeaharchives.files.wordpress.com/2022/04/image-23.png?w=600" alt="" class="wp-image-172" /></figure>
+<!-- wp:image {"id":150,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://yeaharchives.files.wordpress.com/2022/04/image-13.png?w=540" alt="" class="wp-image-150" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
 <p><strong>All-time graph (as of time of report)</strong>:</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":173,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://yeaharchives.files.wordpress.com/2022/04/image-24.png?w=600" alt="" class="wp-image-173" /></figure>
+<!-- wp:image {"id":151,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://yeaharchives.files.wordpress.com/2022/04/image-14.png?w=600" alt="" class="wp-image-151" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

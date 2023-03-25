@@ -1,13 +1,17 @@
 ---
 layout: post
-title: Daily report for 05/04/2022 / YNK-YGSE
-date: 2022-04-09 08:56
+title: Daily report for YNK-YGSE﹕03/04/2022
+date: 2022-04-04 21:40
 author: yeahgamesdevs
 comments: true
 categories: [bank, Daily reports, Finance, investing, news, reports, Stocks, Yank, ynk, YNK-YGSE, yollars, yoney]
+image: /archive/img/reports/daily/ynk/03-04-2022.png
+c: Yank
+redirect_from:
+  - /item/daily-report-for-03-04-2022-ynkygse
 ---
 <!-- wp:paragraph -->
-<p>This is the daily report for <code>The Yank of yEAh Games</code> <code>(YNK:YGSE)</code> on the yEAh Games Stock Exchange (YGSE), on <code>Tuesday, the 5th of March, 2022</code>.<br><em>Full stock history for this company can be viewed here.</em></p>
+<p>This is the daily report for <code>The Yank of yEAh Games</code> <code>(YNK:YGSE)</code> on the yEAh Games Stock Exchange (YGSE), on <code>Sunday, the 3rd of March, 2022</code>.<br><em>Full stock history for this company can be viewed here.</em></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -24,7 +28,7 @@ categories: [bank, Daily reports, Finance, investing, news, reports, Stocks, Yan
 
 <!-- wp:buttons -->
 <div class="wp-block-buttons"><!-- wp:button {"textColor":"vivid-cyan-blue","style":{"border":{"radius":"18px"}}} -->
-<div class="wp-block-button"><a class="wp-block-button__link has-vivid-cyan-blue-color has-text-color" href="https://discord.com/channels/887052880782176266/956148633475092520/961078257711742997" style="border-radius:18px;"><strong>ORIGINAL DISCORD POST</strong></a></div>
+<div class="wp-block-button"><a class="wp-block-button__link has-vivid-cyan-blue-color has-text-color" href="https://discord.com/channels/887052880782176266/956148633475092520/959266165732028466" style="border-radius:18px;"><strong>ORIGINAL DISCORD POST</strong></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
 
@@ -44,8 +48,8 @@ categories: [bank, Daily reports, Finance, investing, news, reports, Stocks, Yan
 <p><strong><strong>Price change since previous close:</strong></strong></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph {"textColor":"vivid-red"} -->
-<p class="has-vivid-red-color has-text-color"><code>▼ today</code><br><code>—8376.2174 (—8376.2174%)</code></p>
+<!-- wp:paragraph {"textColor":"luminous-vivid-orange"} -->
+<p class="has-luminous-vivid-orange-color has-text-color"><code>► today</code><br><code>—0 (—0%)</code></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -65,7 +69,7 @@ categories: [bank, Daily reports, Finance, investing, news, reports, Stocks, Yan
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Notes:</strong><br><em>No specific notes</em></p>
+<p><strong>Notes:</strong><br>— Dividends have been released. Check your accounts! <br>— Today is the week close. See its report below.<br>— You may want to look at #annoucements because there are some changes that may affect stock prices.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -80,16 +84,16 @@ categories: [bank, Daily reports, Finance, investing, news, reports, Stocks, Yan
 <p><strong>Weekly graph (as of time of report):</strong></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":313,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://yeaharchives.files.wordpress.com/2022/04/image-54.png?w=600" alt="" class="wp-image-313" /></figure>
+<!-- wp:image {"id":218,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://yeaharchives.files.wordpress.com/2022/04/image-38.png?w=600" alt="" class="wp-image-218" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
 <p><strong>All-time graph (as of time of report)</strong>:</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":314,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://yeaharchives.files.wordpress.com/2022/04/image-55.png?w=600" alt="" class="wp-image-314" /></figure>
+<!-- wp:image {"id":147,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://yeaharchives.files.wordpress.com/2022/04/image-12.png?w=600" alt="" class="wp-image-147" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

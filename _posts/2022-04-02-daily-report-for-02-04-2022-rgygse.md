@@ -1,13 +1,18 @@
 ---
 layout: post
-title: Daily report for 03/04/2022 / RG-YGSE
-date: 2022-04-04 21:37
+title: Daily report for RG-YGSE﹕02/04/2022
+date: 2022-04-03 21:42
 author: yeahgamesdevs
 comments: true
 categories: [Daily reports, Finance, investing, news, reports, rg, RG-YGSE, Stocks]
+image: /archive/img/reports/daily/rg/02-04-2022.png
+link: https://yankarchive.yeahgames.net/stocks/reports/daily/rg/2022/04/02
+c: Yank
+redirect_from:
+  - /item/daily-report-for-02-04-2022-rgygse
 ---
 <!-- wp:paragraph -->
-<p>This is the daily report for <code>Random Guy TCG</code> <code>(RG:YGSE)</code> on the yEAh Games Stock Exchange (YGSE), on <code>Sunday, the 3rd of April, 2022</code>.<br><em>Full stock history for this company can be viewed here.</em></p>
+<p>This is the daily report for <code>Random Guy TCG</code> <code>(RG:YGSE)</code> on the yEAh Games Stock Exchange (YGSE), on <code>Saturday, the 2nd of April, 2022</code>.<br><em>Full stock history for this company can be viewed here.</em></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -24,7 +29,7 @@ categories: [Daily reports, Finance, investing, news, reports, rg, RG-YGSE, Stoc
 
 <!-- wp:buttons -->
 <div class="wp-block-buttons"><!-- wp:button {"textColor":"vivid-cyan-blue","style":{"border":{"radius":"18px"}}} -->
-<div class="wp-block-button"><a class="wp-block-button__link has-vivid-cyan-blue-color has-text-color" href="https://discord.com/channels/887052880782176266/956148633475092520/960358070742024242" style="border-radius:18px;"><strong>ORIGINAL DISCORD POST</strong></a></div>
+<div class="wp-block-button"><a class="wp-block-button__link has-vivid-cyan-blue-color has-text-color" href="https://discord.com/channels/887052880782176266/956148633475092520/959266365246672937" style="border-radius:18px;"><strong>ORIGINAL DISCORD POST</strong></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
 
@@ -65,7 +70,7 @@ categories: [Daily reports, Finance, investing, news, reports, rg, RG-YGSE, Stoc
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Notes:</strong><br>— BOTS:YGSE has been released. See its report below. <br>— You may want to look at annoucements because there are some changes that may affect stock prices. — Weekly close is only at 0 because the price <em>was</em> 0 on Sunday. <br>— Today is the week close. See its report below.<br>— Dividends have been released. Check your accounts!</p>
+<p><strong>Notes:</strong><br>— BOTS:YGSE has been released. See its report below. <br>— You may want to look at annoucements because there are some changes that may affect stock prices. — Weekly close is only at 0 because the price <em>was</em> 0 on Sunday. <br>— Dividends have been released. Check your accounts!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -80,8 +85,8 @@ categories: [Daily reports, Finance, investing, news, reports, rg, RG-YGSE, Stoc
 <p><strong>Weekly graph (as of time of report):</strong></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":215,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://yeaharchives.files.wordpress.com/2022/04/image-37.png?w=540" alt="" class="wp-image-215" /></figure>
+<!-- wp:image {"id":162,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://yeaharchives.files.wordpress.com/2022/04/image-18.png?w=600" alt="" class="wp-image-162" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

@@ -1,13 +1,18 @@
 ---
 layout: post
-title: Daily report for 06/04/2022 / BOTS-YGSE
-date: 2022-04-16 08:59
+title: Daily report for BOTS-YGSE﹕02/04/2022
+date: 2022-04-04 07:33
 author: yeahgamesdevs
 comments: true
 categories: [bots, BOTS-YGSE, Daily reports, discord-bots, Finance, investing, news, reports, Stocks]
+image: /archive/img/reports/daily/bots/02-04-2022.png
+link: https://yankarchive.yeahgames.net/stocks/reports/daily/bots/2022/04/02
+c: Yank
+redirect_from:
+  - /item/daily-report-for-02-04-2022-botsygse
 ---
 <!-- wp:paragraph -->
-<p>This is the daily report for <code>yEAh Games' BOTS</code> <code>(BOTS:YGSE)</code> on the yEAh Games Stock Exchange (YGSE), on <code>Wednesday, the 6th of April, 2022</code>.<br><em>Full stock history for this company can be viewed here.</em></p>
+<p>This is the daily report for <code>yEAh Games' BOTS</code> <code>(BOTS:YGSE)</code> on the yEAh Games Stock Exchange (YGSE), on <code>Saturday, the 1st of April, 2022</code>.<br><em>Full stock history for this company can be viewed here.</em></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -24,7 +29,7 @@ categories: [bots, BOTS-YGSE, Daily reports, discord-bots, Finance, investing, n
 
 <!-- wp:buttons -->
 <div class="wp-block-buttons"><!-- wp:button {"textColor":"vivid-cyan-blue","style":{"border":{"radius":"18px"}}} -->
-<div class="wp-block-button"><a class="wp-block-button__link has-vivid-cyan-blue-color has-text-color" href="https://discord.com/channels/887052880782176266/956148633475092520/961078504349388830" style="border-radius:18px;"><strong>ORIGINAL DISCORD POST</strong></a></div>
+<div class="wp-block-button"><a class="wp-block-button__link has-vivid-cyan-blue-color has-text-color" href="https://discord.com/channels/887052880782176266/956148633475092520/959266749998583828" style="border-radius:18px;"><strong>ORIGINAL DISCORD POST</strong></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
 
@@ -37,7 +42,7 @@ categories: [bots, BOTS-YGSE, Daily reports, discord-bots, Finance, investing, n
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Individual share price: </strong><code>¥ 3503.1906</code></p>
+<p><strong>Individual share price: </strong><code>¥ 631.91833</code></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -45,7 +50,7 @@ categories: [bots, BOTS-YGSE, Daily reports, discord-bots, Finance, investing, n
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"textColor":"vivid-green-cyan"} -->
-<p class="has-vivid-green-cyan-color has-text-color"><code>▲ today</code><br><code>+3479.98722 (+14997.7624%)</code></p>
+<p class="has-vivid-green-cyan-color has-text-color"><code>▲ today</code><br><code>+574.459674 (+999.77917%)</code></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -53,7 +58,7 @@ categories: [bots, BOTS-YGSE, Daily reports, discord-bots, Finance, investing, n
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Company valuation</strong>:<br><code>¥ 1755098.49</code><br><code>501</code> shares sold</p>
+<p><strong>Company valuation</strong>:<br><code>¥ 316591.083</code><br><code>501</code> shares sold</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -65,7 +70,7 @@ categories: [bots, BOTS-YGSE, Daily reports, discord-bots, Finance, investing, n
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Notes:</strong><br>— This stock is not for a channel, but rather for all the bots in the server. This is part of a larger experiment to incorporate other ideas in to the YGSE. </p>
+<p><strong>Notes:</strong><br>— Welcome to our newest stock, BOTS:YGSE! <br>— Week close is at 0 because no data was recorded. <br>— This stock is not for a channel, but rather for all the bots in the server. This is part of a larger experiment to incorporate other ideas in to the YGSE. <br>— You may want to look at #annoucements because there are some changes that may affect stock prices. — Dividends have been released. Check your accounts!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -73,27 +78,23 @@ categories: [bots, BOTS-YGSE, Daily reports, discord-bots, Finance, investing, n
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Records broken (at time of report):</strong><br>— Highest-ever share price for this symbol (since records started being recorded) <br>— Highest-ever share price jump for this symbol (since records started being recorded) <br>— Highest-ever company valuation for this symbol at time of report <br>(since records started being recorded) <br>— Most messages ever sent in one day in this division (since records started being recorded, although this is true either way)<a href="https://cdn.discordapp.com/attachments/956148633475092520/961442041739497492/unknown.png"></a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><strong>Raw data:</strong><br>Percent of messages: <code>21.6792842%</code><br>Number of messages: <code>315</code><br>Number of shares: <code>42467</code><br>$CAD to ¥YAY exchange rate: <code>$CAD 1.0 = ¥YAY 1250.0</code> </p>
+<p><strong>Raw data:</strong><br>Percent of messages: <code>32.9411765%</code><br>Number of messages: <code>56</code><br>Number of shares: <code>42467</code><br>$CAD to ¥YAY exchange rate: <code>$CAD 1.0 = ¥YAY 1250.0</code> </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 <p><strong>Weekly graph (as of time of report):</strong></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":380,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://yeaharchives.files.wordpress.com/2022/04/image-73.png?w=540" alt="" class="wp-image-380" /></figure>
+<!-- wp:image {"id":172,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://yeaharchives.files.wordpress.com/2022/04/image-23.png?w=600" alt="" class="wp-image-172" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
 <p><strong>All-time graph (as of time of report)</strong>:</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":381,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://yeaharchives.files.wordpress.com/2022/04/image-74.png?w=600" alt="" class="wp-image-381" /></figure>
+<!-- wp:image {"id":173,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://yeaharchives.files.wordpress.com/2022/04/image-24.png?w=600" alt="" class="wp-image-173" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
