@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Yeebot: About/how-to
+title: Yeebot﹕About/how-to
 date: 2022-07-14 18:45
 author: yeahgamesdevs
 comments: true
