@@ -1,0 +1,18 @@
+---
+layout: page
+title: "Search the archive libary"
+permalink: /search
+
+redirect_from:
+  - /searchbar
+---
+
+<div class="lead">
+  <i id="search-trigger" class="fas fa-search fa-fw"></i>
+  <span id="search-wrapper" class="align-items-center">
+    <i class="fas fa-search fa-fw"></i>
+    <input class="form-control" id="search-input" type="search"
+      aria-label="search" autocomplete="off" placeholder="{{ site.data.locales[site.lang].search.hint | capitalize }}...">
+  </span>
+  <span id="search-cancel" >{{ site.data.locales[site.lang].search.cancel }}</span>
+</div>
