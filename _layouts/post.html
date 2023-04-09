@@ -20,6 +20,9 @@ tail_includes:
 {% if page.token %}
 <link rel="canonical" href="https://login.yeahgames.net/token/{{page.token}}"/>
 {% endif %}
+{% if page.token %}
+<meta name="robots" content="noindex"/>
+{% endif %}
   {% unless page.c == "Main" %}
   <meta http-equiv="refresh" content="0;URL='{{page.link}}'" />
   {% endunless %}
