@@ -8,6 +8,7 @@ categories: [Games, Card games, Random Guy TCG, Gen. 2, Legendary]
 tags: [diealga, okedex, okmon, okdex, okmon cards, prokedex, prokdex]
 C: Games
 link: https://gamesarchive.yeahgames.net/games/random-guy/info/okdex/diealga
+canonical_url: https://gamesarchive.yeahgames.net/games/random-guy/info/okdex/diealga
 ---
 <!-- wp:paragraph -->
 <p>This is the official OKdex (Prokédex) entry for <em>Diealga</em>.</p>

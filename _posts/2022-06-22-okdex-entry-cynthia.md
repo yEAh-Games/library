@@ -8,6 +8,7 @@ categories: [Games, Card games, Random Guy TCG, Gen. 1]
 tags: [gen-1, normal, okdex, okedex, okmon, okmon cards, prokedex, prokdex]
 link: https://gamesarchive.yeahgames.net/games/random-guy/info/okdex/cynthia
 C: Games
+canonical_url: https://gamesarchive.yeahgames.net/games/random-guy/info/okdex/cynthia
 ---
 <!-- wp:paragraph -->
 <p>This is the official OKdex (Prokédex) entry for <em>Cynthia</em>.</p>

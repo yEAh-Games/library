@@ -8,6 +8,7 @@ categories: [Events, yEAh Elections, October 2022 Elections]
 tags: [candidates, elections, vote, voting yeah games elections, yeah games elections 2022]
 link: https://news.yeahgames.net/news/election-candidates-in-the-october-2022-yg-elections/
 c: News
+canonical_url: https://news.yeahgames.net/news/election-candidates-in-the-october-2022-yg-elections/
 ---
 <!-- wp:paragraph -->
 <p>The following are the registered candidates and related information for the October 2022 yEAh Games elections. <br>You can vote for them in the election by choosing their party name on the ballot, posted <a href="https://yeaharchives.wordpress.com/2022/10/26/vote-may-2022/">here</a>.</p>

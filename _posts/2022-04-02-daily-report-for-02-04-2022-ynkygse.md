@@ -10,6 +10,7 @@ link: https://yankarchive.yeahgames.net/stocks/reports/daily/ynk/2022/04/02
 c: Yank
 redirect_from:
   - /item/daily-report-for-02-04-2022-ynkygse
+canonical_url: https://yankarchive.yeahgames.net/stocks/reports/daily/ynk/2022/04/02
 ---
 <!-- wp:paragraph -->
 <p>This is the daily report for <code>The Yank of yEAh Games</code> <code>(YNK:YGSE)</code> on the yEAh Games Stock Exchange (YGSE), on <code>Saturday, the 2nd of March, 2022</code>.<br><em>Full stock history for this company can be viewed here.</em></p>

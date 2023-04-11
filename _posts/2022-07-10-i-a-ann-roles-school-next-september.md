@@ -8,6 +8,7 @@ categories: [News/announcements, Interactive ann.]
 tags: [announcement, interactive-announcements, official]
 c: News
 link: https://news.yeahgames.net/news/i-a-ann-roles-school-next-september/
+canonical_url: https://news.yeahgames.net/news/i-a-ann-roles-school-next-september/
 ---
 <!-- wp:paragraph -->
 <p><strong>Note:</strong><br><em>This was an announcement that was originally posted on our official <a href="https://yeaharchives.wordpress.com/discord-about/">yEAh Games Discord server</a> in the <a href="https://discord.com/channels/887052880782176266/887066216093605910">#announcements</a> channel.</em> <em>It has been since semi-automatically copied to a post on this website, so certain information may not make sense in this context.</em> <em>The website post's date may also not reflect the actual announcement's post date.</em><br><em>This announcement was an <strong>interactive announcement</strong>, and to interact with it, you must visit the original message on the Discord server.</em><br><em><strong>As always, check the server for the most-up-to-date information.</strong></em></p>

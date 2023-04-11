@@ -10,6 +10,7 @@ link: https://yankarchive.yeahgames.net/docs/about/stocks/overview
 c: Yank
 redirect_from:
   - /item/about-the-stock-market/
+canonical_url: https://yankarchive.yeahgames.net/docs/about/stocks/overview
 ---
 <!-- wp:paragraph -->
 <p><strong>Important note regarding the stock market: </strong><br><em>The stock market is not currently running because of technical difficulties and time restraints. The next report is postponed indefinitely. We hope to eventually restart the market with an automated system, but this will take some time. No other parts of the Yank are affected, and we won't be removing the market any time soon (all previous information can still be viewed), but, for now, we have paused updating share prices and the rest of the market</em>.</p>
