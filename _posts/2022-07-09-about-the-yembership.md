@@ -12,6 +12,7 @@ link: https://yankarchive.yeahgames.net/docs/about/yembership/overview
 c: Yank
 redirect_from:
   - /item/about-the-yembership/
+canonical_url: https://yankarchive.yeahgames.net/docs/about/yembership/overview
 ---
 
 <!-- wp:paragraph -->

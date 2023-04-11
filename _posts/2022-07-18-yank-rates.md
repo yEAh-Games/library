@@ -12,6 +12,7 @@ redirect_from:
   - /item/yank-rates/
 link: https://yankarchive.yeahgames.net/docs/live/rates
 c: Yank
+canonical_url: https://yankarchive.yeahgames.net/docs/live/rates
 ---
 <!-- wp:paragraph -->
 <p>These are the official rates for various finance-related yEAh Games features. Some vary over time; some will stay the same. Check the bot command <code>yeahrates</code> for live updates.</p>

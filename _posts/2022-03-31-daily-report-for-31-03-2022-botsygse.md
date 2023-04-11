@@ -10,6 +10,7 @@ link: https://yankarchive.yeahgames.net/stocks/reports/daily/bots/2022/03/31
 c: Yank
 redirect_from:
   - /item/daily-report-for-31-03-2022-botsygse
+canonical_url: https://yankarchive.yeahgames.net/stocks/reports/daily/bots/2022/03/31
 ---
 <!-- wp:paragraph -->
 <p>This is the daily report for <code>yEAh Games' BOTS</code> <code>(BOTS:YGSE)</code> on the yEAh Games Stock Exchange (YGSE), on <code>Thursday, the 31st of March, 2022</code>.<br><em>Full stock history for this company can be viewed here.</em></p>

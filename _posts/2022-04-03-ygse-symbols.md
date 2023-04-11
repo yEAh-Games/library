@@ -10,6 +10,7 @@ image: /archive/img/item/ygse-symbols/featured.png
 c: Yank
 redirect_from:
   - /item/ygse-symbols
+canonical_url: https://yankarchive.yeahgames.net/stocks/symbols
 ---
 <!-- wp:paragraph -->
 <p>Here are a list of symbols (e.g., YG) on the yEAh Games stock market.<br>Click on one to find stock articles involving that symbol.<br> </p>
