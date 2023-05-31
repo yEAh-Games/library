@@ -4,11 +4,12 @@ title: About archiving with yEAh Games
 date: 2022-04-03 18:01
 author: yeahgames
 comments: true
-categories: []
-tags: [archives, archiving, library]
+categories: [Docs, Archives]
+tags: [archives, about]
+link: https://docs.yeahgames.net/docs/archives/about
+canonical_url: https://docs.yeahgames.net/docs/archives/about
+c: Docs
 ---
-
-{% include iframe-docs.html %}
 
 > This catalogue item is hosted in the **Docs** external collection at **[docs.yeahgames.net](https://docs.yeahgames.net/docs/archives/about)**.
 {: .prompt-tip }

@@ -8,9 +8,8 @@ categories: [Yank, Official documents]
 tags: [cheque, download, official, printable, template, yollars, yollars-related]
 image: /archive/img/item/cheque-template/featured.png
 c: Yank
-redirect_from:
-  - /item/cheque-template
-  - /documents/templates/cheque
+link: https://yankarchive.yeahgames.net/documents/templates/cheques
+canonical_url: https://yankarchive.yeahgames.net/documents/templates/cheques
 ---
 <!-- wp:paragraph -->
 <p>The official downloadable &amp; printable template for <em>The Yank of yEAh Games</em> cheques.</p>
