@@ -1,10 +1,13 @@
 ---
 layout: post
-title: yEAh Elections • May 2022 — Results
+title: "yEAh Elections • May 2022 — Results"
 date: 2022-06-06 09:52
-author: deezmoms
+author: yeahgames
+link: https://news.yeahgames.net/news/yeah-elections-2022-q2-results/
+canonical_url: https://news.yeahgames.net/news/yeah-elections-2022-q2-results/
+c: News
 comments: true
-categories: [Events, May 2022 Elections, People, yEAh Elections]
+categories: [Events, yEAh Elections, May 2022 Elections]
 ---
 <!-- wp:heading -->
 <h2><strong>Official report: Voting week has ended and results are in</strong></h2>
