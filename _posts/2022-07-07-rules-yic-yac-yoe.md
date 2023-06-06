@@ -5,7 +5,7 @@ date: 2022-07-07 17:52
 author: yeahgamesdevs
 comments: true
 categories: [Games, Hand games, Rules]
-c: games
+c: Games
 tags: [developers, history, official-rules, pro, rules, start, yeah-games]
 link: https://gamesarchive.yeahgames.net/games/rules/yic-yac-yoe/v1
 canonical_url: https://gamesarchive.yeahgames.net/games/rules/yic-yac-yoe/v1

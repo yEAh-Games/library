@@ -7,11 +7,7 @@ comments: true
 categories: [Finance, Yembership]
 tags: [bonuses, exclusive offer, membership, official, perks, special deals, yeah games, yollars, advertisement, ads]
 c: Yank
-image: /archive/img/item/about-the-yembership/featured.png
 link: https://yankarchive.yeahgames.net/docs/about/yembership/overview
-c: Yank
-redirect_from:
-  - /item/about-the-yembership/
 canonical_url: https://yankarchive.yeahgames.net/docs/about/yembership/overview
 ---
 

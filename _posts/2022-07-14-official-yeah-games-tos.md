@@ -7,7 +7,7 @@ comments: true
 categories: [Legal, Lawbook, Laws, General]
 link: https://archive.legal.yeahgames.net/lawbook/laws/general/tos
 canonical_url: https://archive.legal.yeahgames.net/lawbook/laws/general/tos
-redirect_from: /item/yeah-games-tos
+tags: [lawbook, tos, rules]
 type: Law
 section: Overview [0]
 c: Legal

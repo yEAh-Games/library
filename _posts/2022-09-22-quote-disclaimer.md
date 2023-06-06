@@ -1,10 +1,16 @@
 ---
 layout: post
-title: Quote disclaimers/liability
+title: Quote disclaimer and liability notice
 date: 2022-09-22 17:20
 author: yeahgamesdevs
 comments: true
-categories: [disclaimer, Docs, featured, lawbook, legal, QOTD, Quotes, Rules/lawbook]
+c: Legal
+link: https://archive.legal.yeahgames.net/lawbook/disclaimers/quotes
+canonical_url: https://archive.legal.yeahgames.net/lawbook/disclaimers/quotes
+categories: [Legal, Lawbook, Disclaimers]
+type: Disclaimer
+tags: [disclaimer, liability, quotes]
+description: "Legal disclaimer and information relating to the yEAh Games Quotes system (including QOTDs, QOTWs, etc.), the Quotes collection, publishing quotes, liability, etc. Read this before submitting, creating or viewing any Quotes published by yEAh Games."
 ---
 <!-- wp:paragraph -->
 <p>We are required to disclose this information relating to quotes; this includes, but is not necessarily limited to: Quotes of the Day(s), Quotes of the Week(s), Quotes of the Month(s), Quotes of the Year.</p>

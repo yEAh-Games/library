@@ -6,7 +6,6 @@ author: yeahgamesdevs
 comments: true
 categories: [Yank, Official documents]
 tags: [cheque, download, official, printable, template, yollars, yollars-related]
-image: /archive/img/item/cheque-template/featured.png
 c: Yank
 link: https://yankarchive.yeahgames.net/documents/templates/cheques
 canonical_url: https://yankarchive.yeahgames.net/documents/templates/cheques

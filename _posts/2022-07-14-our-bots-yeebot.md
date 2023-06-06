@@ -5,6 +5,7 @@ date: 2022-07-14 18:45
 author: yeahgamesdevs
 comments: true
 categories: [Discord, Docs, Bots, YeeBot]
+tags: [discord, bots, yeebot]
 c: Docs
 link: https://docs.yeahgames.net/docs/applications/bots/yeebot/about
 canonical_url: https://docs.yeahgames.net/docs/applications/bots/yeebot/about

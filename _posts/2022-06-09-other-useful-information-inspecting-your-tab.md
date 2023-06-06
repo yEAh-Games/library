@@ -1,10 +1,13 @@
 ---
 layout: post
-title: Other useful information / Inspecting Your Tab!
+title: "Inspecting Your Tab!"
 date: 2022-06-09 17:23
+tags: [inspecting, browser, tabs]
 author: guyman147
+categories: [Other useful information, Misc.]
 comments: true
 categories: [Uncategorized]
+c: Main
 ---
 <!-- wp:paragraph {"style":{"typography":{"fontSize":"15px"}}} -->
 <p style="font-size:15px;"><em>If you are ever needing an image during this process, please click <a href="https://yeaharchives.wordpress.com/2022/05/12/official-pro-cow/" target="_blank" rel="noreferrer noopener">HERE</a>.</em><br>You can close the inspect panel at any time by pressing the 'X' in the top right corner</p>
