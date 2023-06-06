@@ -1,0 +1,5 @@
+Sitemap: https://library.yeahgames.net/sitemap.xml
+
+User-agent: *
+Disallow: /item/*/*
+Disallow: /posts/*/*
