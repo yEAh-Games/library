@@ -185,12 +185,10 @@ tail_includes:
       {% assign authors = page.authors %}
       {% endif %}
 
-      {{ site.data.locales[site.lang].post.written_by }}
-
       <em>
         {% if authors %}
         {% for author in authors %}
-        <a href="{{ site.data.authors[author].url }}">{{ site.data.authors[author].name }}</a>
+        <a href="http://members.yeahgames.net/@{{author}}">@{{author}}</a>
         {% unless forloop.last %}</em>, <em>{% endunless %}
         {% endfor %}
         {% else %}
