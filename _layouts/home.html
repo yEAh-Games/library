@@ -65,7 +65,7 @@ layout: page
         <i class="far fa-calendar fa-fw"></i>
         {% include datetime.html date=post.date %}
         <i class="fa-solid fa-user"></i>
-        <a href="//members.yeahgames.net/@{{post.author | remove: 'devs' | replace: 'tallinn', 'nnillat' | replace: 'aidan', 'undone'}}"><font color="#ff7c7c">@{{ post.author | remove: 'devs' | replace: 'tallinn', 'nnillat' | replace: 'aidan', 'undone'}}</font></a>
+        <a href="//members.yeahgames.net/@{{post.author | remove: 'devs' | replace: 'tallinn', 'nnillat' | replace: 'aidan', 'undone' | replace: 'deezmoms', 'undone'}}"><font color="#ff7c7c">@{{ post.author | remove: 'devs' | replace: 'tallinn', 'nnillat' | replace: 'aidan', 'undone'}}</font></a>
         {% if post.c %}<i class="fa-solid fa-box-open"></i>
         {% if post.c %}<a href="//{{post.c}}.c.library.yeahgames.net">{% endif %}<font color="#ff7c7c">{{ post.c }}</font></a>{% endif %}
         <!-- categories -->
