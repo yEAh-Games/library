@@ -6,8 +6,8 @@
   /* Framework color */
   --body-bg: var(--main-bg);
   --mask-bg: rgb(68, 69, 70);
-  --main-bg: rgb(27, 27, 30);
-  --main-border-color: rgb(44, 45, 45);
+  --main-bg: #0c0e14;
+  --main-border-color: #1d1f24;
 
   /* Common color */
   --text-color: rgb(175, 176, 177);
@@ -17,7 +17,7 @@
   --blockquote-text-color: rgb(117, 117, 117);
   --link-color: #ff4747;
   --link-underline-color: #ff7c7c;
-  --button-bg: rgb(43, 40, 39);
+  --button-bg: #1d1f24;
   --btn-border-color: rgb(63, 65, 68);
   --btn-backtotop-color: var(--text-color);
   --btn-backtotop-border-color: var(--btn-border-color);
@@ -36,16 +36,16 @@
     );
 
   /* Sidebar */
-  --sidebar-bg: radial-gradient(circle, #242424 0%, #1d1f27 100%);
+  --sidebar-bg: #0c0e14;
   --sidebar-muted-color: #6d6c6b;
   --sidebar-active-color: rgb(255, 255, 255, 0.8);
   --nav-cursor-color: rgb(183, 182, 182);
-  --sidebar-btn-bg: rgb(117, 116, 116, 0.2);
+  --sidebar-btn-bg: #1d1f24;
 
   /* Topbar */
   --topbar-text-color: var(--text-color);
-  --topbar-wrapper-bg: rgb(39, 40, 43);
-  --search-wrapper-bg: rgb(34, 34, 39);
+  --topbar-wrapper-bg: linear-gradient(to right, #0c0e14, #1d1f24);;
+  --search-wrapper-bg: #0c0e14;
   --search-wrapper-border-color: rgb(34, 34, 39);
   --search-icon-color: rgb(100, 102, 105);
   --input-focus-border-color: rgb(112, 114, 115);

@@ -4,13 +4,11 @@ title: Daily report for YG-YGSE﹕03/04/2022
 date: 2022-04-04 21:27
 author: yeahgamesdevs
 comments: true
-categories: [Daily reports, Finance, investing, news, reports, Stocks, yg, YG-YGSE]
-image: /archive/img/reports/daily/yg/03-04-2022.png
-link: https://yankarchive.yeahgames.net/stocks/reports/daily/yg/2022/04/03
+categories: [Finance, Stocks, Reports, Daily, YGSE, YG]
+tags: [bank, investing, news, reports, yg, yollars, yoney, stocks, yocks]
+link: https://yankarchive.yeahgames.net/stocks/reports/daily/ygse/yg/2022/04/03
 c: Yank
-redirect_from:
-  - /item/daily-report-for-03-04-2022-ygygse
-canonical_url: https://yankarchive.yeahgames.net/stocks/reports/daily/yg/2022/04/03
+canonical_url: https://yankarchive.yeahgames.net/stocks/reports/daily/ygse/yg/2022/04/03
 ---
 <!-- wp:paragraph -->
 <p>This is the daily report for <code>yEAh Games</code> <code>(YG:YGSE)</code> on the yEAh Games Stock Exchange (YGSE), on <code>Sunday, the 3rd of April, 2022</code>.<br><em>Full stock history for this company can be viewed here.</em></p>
