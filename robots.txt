@@ -1,6 +1,8 @@
 Sitemap: https://library.yeahgames.net/sitemap.xml
 
 User-agent: *
-Disallow: /item/*/*
-Disallow: /posts/*/*
+Disallow: /item//
+Disallow: /posts//
 Disallow: /tags/*
+Allow: /tags
+Allow: /tags/
