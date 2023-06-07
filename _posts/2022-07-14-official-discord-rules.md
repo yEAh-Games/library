@@ -4,7 +4,13 @@ title: Official Discord rules
 date: 2022-07-14 22:13
 author: yeahgamesdevs
 comments: true
-categories: [Discord, Docs, featured, Rules/lawbook]
+categories: [Legal, Lawbook, Laws, Discord]
+tags: [discord, rules, lawbook]
+link: https://archive.legal.yeahgames.net/lawbook/laws/discord/rules
+canonical_url: https://archive.legal.yeahgames.net/lawbook/laws/discord/rules
+c: Legal
+type: Law
+section: Overview [0]
 ---
 <!-- wp:paragraph -->
 <p><em>Please note that these rules are the <strong>original</strong> official rules; new rules have been put into place since then. See the full lawbook for full details, including for rules outside of the Discord server.</em></p>

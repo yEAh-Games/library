@@ -4,28 +4,12 @@
 
 <div id="sidebar" class="d-flex flex-column align-items-end">
   <div class="profile-wrapper text-center">
-    <div id="avatar">
-      <a href="https://yeahgames.net" class="mx-auto">
-        {% if site.avatar != empty and site.avatar %}
-          {% capture avatar_url %}
-            {% if site.avatar contains '://' %}
-              {{ site.avatar }}
-            {% elsif site.img_cdn != empty and site.img_cdn %}
-              {{ site.avatar | prepend: site.img_cdn }}
-            {% else %}
-              {{ site.avatar | relative_url }}
-            {% endif %}
-          {% endcapture %}
-          <img title="The yEAh Library" src="https://cdn.yeahgames.net/img/branding/logos/default/logo.png" alt="yEAh" onerror="this.style.display='none'">
-        {% endif %}
-      </a>
-    </div>
+    <center><a href="https://www.yeahgames.net"><img src="https://cdn.yeahgames.net/img/branding/logos/text/red.svg" style="max-width: 50% !important;margin-top: 0!important;
+      margin-bottom: 0.05rem!important;"></a></center>
 
     <div class="site-title">
-      <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+      <a href="https://library.yeahgames.net">{{ site.title }}</a>
     </div>
-    <div class="site-subtitle font-italic">{{ site.tagline }}</div>
-
   </div><!-- .profile-wrapper -->
 
   <ul class="w-100">

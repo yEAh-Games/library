@@ -8,8 +8,6 @@ categories: [Yank, Finance, Docs,]
 category: Docs
 tags: [docs, yollars, rates]
 image: /archive/img/item/yank-rates/featured.png
-redirect_from:
-  - /item/yank-rates/
 link: https://yankarchive.yeahgames.net/docs/live/rates
 c: Yank
 canonical_url: https://yankarchive.yeahgames.net/docs/live/rates

@@ -5,7 +5,10 @@ date: 2022-06-21 17:16
 author: yeahgames
 comments: true
 tags: [ads, new-feature, yollars]
-categories: [News/announcements, Other useful information, Advertisements]
+categories: [Docs, Advertisements, About]
+link: https://docs.yeahgames.net/docs/advertising/about
+canonical_url: https://docs.yeahgames.net/docs/advertising/about
+c: Docs
 ---
 
 {% include iframe-docs.html %}
