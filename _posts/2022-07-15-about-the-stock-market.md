@@ -1,15 +1,13 @@
 ---
 layout: post
-title: About/FAQs﹕The Stock Market
+title: "About/FAQs: The Stock Market"
 date: 2022-07-15 12:09
 author: yeahgamesdevs
 comments: true
-categories: [About/FAQs, Docs, featured, Finance, finance-docs, Stocks, Yank, yoney]
-image: /archive/img/item/about-the-stock-market/featured.png
+categories: [Yank, Investing, Docs, About]
+tags: [about, faqs, finance-docs, yollars, finance, stocks]
 link: https://yankarchive.yeahgames.net/docs/about/stocks/overview
 c: Yank
-redirect_from:
-  - /item/about-the-stock-market/
 canonical_url: https://yankarchive.yeahgames.net/docs/about/stocks/overview
 ---
 <!-- wp:paragraph -->

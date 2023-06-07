@@ -5,9 +5,10 @@ date: 2022-07-14 18:45
 author: yeahgamesdevs
 comments: true
 categories: [Discord, Docs, Bots, YeeBot]
+tags: [discord, bots, yeebot]
 c: Docs
-link: https://docs.yeahgames.net/docs/bots/yeebot/about
-canonical_url: https://docs.yeahgames.net/docs/bots/yeebot/about
+link: https://docs.yeahgames.net/docs/applications/bots/yeebot/about
+canonical_url: https://docs.yeahgames.net/docs/applications/bots/yeebot/about
 ---
 <!-- wp:paragraph -->
 <p><em><strong>Yeebot: The snek bot.™</strong></em> <br>A bot with everything, completely programmed by Yee#2462; from games, Reddit commands, and moderation, to music commands &amp; an economy, and even its own browser &amp; chat, this bot has it all. While it's certainly not the most popular bot around, in communities that have it, it's certainly known as the best bot around. Everything was programmed manually — nothing copied — and every command has been made &amp; fixed with attention to detail. </p>
