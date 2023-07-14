@@ -1,4 +1,4 @@
 {
     "origins": ["https://quotes.yeahgames.net", "https://library.yeahgames.net", "https://docs.yeahgames.net", "https://artifacts.yeahgames.net", "https://yankarchive.yeahgames.net", "https://gamesarchive.yeahgames.net", "https://source.yeahgames.net", "https://archive.legal.yeahgames.net", "https://yible.yeahgames.net", "https://news.yeahgames.net"],
-    "originsRegex": ["https://^(.+\\.)yeahgames\\.net$"]
+    "originsRegex": ["https://^(.+\\.)yeahgames\\.net$", "https:\\/\\/[a-zA-Z0-9-]+\\-(secure\\.)?yeahgames\\.net"]
   }
