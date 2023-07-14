@@ -1,0 +1,3 @@
+{
+    "origins": ["https://^(.+\\.)yeahgames\\.net$", "https://quotes.yeahgames.net"]
+  }
