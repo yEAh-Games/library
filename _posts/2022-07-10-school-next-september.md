@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Roles: School next September"
+title: "School next September"
 date: 2022-07-10 21:09
 author: yeahgamesdevs
 comments: true
 categories: [Announcements, Interactive]
-tags: [announcement, interactive-announcements, official]
+tags: [announcement, interactive-announcements, official, ia, official, discord]
 c: News
-link: https://news.yeahgames.net/news/i-a-ann-roles-school-next-september/
-canonical_url: https://news.yeahgames.net/news/i-a-ann-roles-school-next-september/
+link: https://news.yeahgames.net/news/school-next-september/
+canonical_url: https://news.yeahgames.net/news/school-next-september/
 ---
 
 <!-- wp:paragraph -->
@@ -23,7 +23,7 @@ canonical_url: https://news.yeahgames.net/news/i-a-ann-roles-school-next-septemb
 
 <!-- wp:paragraph -->
 
-<p>?° - Agincourt ES<br>?”” - Bell HS<br>?­ - Canterbury HS<br>?Œ„ - Merivale HS<br>??© - Nepean HS<br>?Œ¼ - Woodroffe HS</p>
+<p>?ï¿½ï¿½ - Agincourt ES<br>?ï¿½ï¿½ - Bell HS<br>?ï¿½ï¿½ - Canterbury HS<br>?ï¿½ï¿½ - Merivale HS<br>??ï¿½ - Nepean HS<br>?ï¿½ï¿½ - Woodroffe HS</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

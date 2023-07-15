@@ -40,8 +40,8 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: The yEAh Games Corporation, LLC.
-  email: admin@yeahgames.net           # change to your email address
+  name: yEAh Corp, LLC.
+  email: library@yeahgames.net           # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/yEAhGames_      # change to your twitter homepage
