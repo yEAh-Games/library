@@ -3,7 +3,7 @@
 # ----- Commons label -----
 
 layout:
-  post: Post
+  post: Item
   category: Category
   tag: Tag
 
@@ -20,7 +20,7 @@ tabs:
 search:
   hint: search
   cancel: Cancel
-  no_results: No results matching your search term were found. Try searching with a different term.
+  no_results: No results matching your search term were found. Try with a different termn.
 
 panel:
   lastmod: Recently Updated
@@ -37,8 +37,8 @@ copyright:
   # Displayed in the footer
   brief: Some rights reserved.
   verbose: >-
-    Except where otherwise noted, the blog posts on this site are licensed
-    under the Creative Commons Attribution 4.0 International (CC BY 4.0) License by the author.
+    Except where otherwise noted, items, resources, assets, and internal links in the yEAh Archives are licensed
+    under the Creative Commons Attribution 4.0 International (CC BY 4.0) License (https://creativecommons.org/licenses/by/4.0/). Technical aspects of the Network, unless otherwise noted, are licensed under the MIT license (https://opensource.org/license/mit/).
 
 meta: Using the :PLATFORM theme :THEME.
 
@@ -46,14 +46,14 @@ not_found:
   statment: Sorry, we've misplaced that URL or it's pointing to something that doesn't exist.
 
 notification:
-  update_found: The site has been updated since it was last cached. To overwrite your cached version, please update it.
+  update_found: The site has been updated since it was last cached. To see the most recent version, please update it.
   update: Update
 
 # ----- Posts related labels -----
 
 post:
-  written_by: By
-  posted: Posted
+  written_by: Published by
+  posted: Published
   updated: Updated
   words: words
   pageview_measure: views
@@ -89,5 +89,5 @@ categories:
     singular: category
     plural: categories
   post_measure:
-    singular: post
-    plural: posts
+    singular: item
+    plural: items

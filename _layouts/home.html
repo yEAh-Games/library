@@ -44,7 +44,7 @@ layout: page
 
   <div class="post-preview">
     <b><h1>
-      {% if post.link %}<a href="{{post.link}}">{% endif %}{% if post.token %}<a href="https://login.yeahgames.net/token/{{post.token}}">{% endif %}{% unless post.link or post.token %}<a href="{{ post.url | prepend: site.baseurl }}">{% endunless %}{{ post.title }}</a>
+      {% if post.link %}<a href="{{post.link}}">{% endif %}{% unless post.link %}<a href="{{ post.url | prepend: site.baseurl }}">{% endunless %}{{ post.title }}</a>
     </h1></b>
 
     <div class="post-content">
@@ -66,6 +66,10 @@ layout: page
         {% include datetime.html date=post.date %}
         <i class="fa-solid fa-user"></i>
         <a href="//members.yeahgames.net/@{{post.author | remove: 'devs' | replace: 'tallinn', 'nnillat' | replace: 'aidan', 'undone' | replace: 'deezmoms', 'undone'}}"><font color="#ff7c7c">@{{ post.author | remove: 'devs' | replace: 'tallinn', 'nnillat' | replace: 'aidan', 'undone'}}</font></a>
+
+        {% if post.v %}<i class="fa-solid fa-clock-rotate-left"></i>
+        {% if post.v %}<a>{% endif %}<font color="#ff7c7c" title="Version: {{post.v}}">Version <span style="font-weight:bolder;{% if post.currentv %} color:#5e9c00;{% else %}color:#ff4747{% endif %}>{{ post.v }}</font></a>{% endif %}
+        
         {% if post.c %}<i class="fa-solid fa-box-open"></i>
         {% if post.c %}<a href="//{{post.c}}.c.library.yeahgames.net">{% endif %}<font color="#ff7c7c">{{ post.c }}</font></a>{% endif %}
         <!-- categories -->

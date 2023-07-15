@@ -10,7 +10,6 @@ link: https://docs.yeahgames.net/docs/v/1.0/advertising/about
 c: Docs
 versions: true
 v: "1"
-currentv: false
 permalink: /item/advertising/version/1
 uid: "advertising"
 description: Did you know that yEAh Games offers an advertising platform for services across our network? Find out what you can book, how, pricing, and more, in this doc for advertising with The yEAh Games Corporation, LLC.
