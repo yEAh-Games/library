@@ -4,7 +4,7 @@ title: How do I start archiving?
 date: 2022-04-03 17:57
 author: yeahgamesdevs
 comments: true
-categories: [Archives, About]
+categories: [Docs, Archives]
 tags: [yeah archives, archiving, start, how-to]
 link: https://docs.yeahgames.net/docs/archives/start
 canonical_url: https://docs.yeahgames.net/docs/archives/start
