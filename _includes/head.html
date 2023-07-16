@@ -80,13 +80,18 @@
   <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"{{page.author}}"},"dateModified":"{{formatted_date}}","datePublished":"{{formatted_date}}","description":"{% if page.description %}{{page.description}}{% else %}{{first_paragraph}}{% endif %}","headline":"{{page.title}}","image":"{% if featuredimage contains 'http://' or featuredimage contains 'https://' %}{{featuredimage}}
 {% else %}{% if page.c contains 'news' %}https://news.yeahgames.net/{{featuredimage}}{% endif %}{% endif %}","mainEntityOfPage":{"@type":"WebPage","@id":"{{page.url | absolute_url}}"},"url":"{{page.url | absolute_url}}"}</script>
-
+{% capture normaltitle %}
+{%- unless page.layout == "home" -%}
+{{ page.title | append: " | "}}
+{%- endunless -%}
+{{ site.title }}
+{% endcapture %}
+{% if page.permalink contains "/versions" %}<title>Version history of item "{{page.uid}}" | The yEAh Library</title>
+{% else %}
   <title>
-    {%- unless page.layout == "home" -%}
-    {{ page.title | append: " | "}}
-    {%- endunless -%}
-    {{ site.title }}
+  {{normaltitle}} 
   </title>
+  {% endif %}
 
   {% include favicons.html %}
 

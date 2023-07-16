@@ -5,66 +5,83 @@
 <div id="topbar-wrapper" style="background: linear-gradient(to right, #0c0e14, #1d1f24)!important;">
   <div id="topbar" class="container d-flex align-items-center justify-content-between h-100 pl-3 pr-3 pl-md-4 pr-md-4">
     <span id="breadcrumb">
+      {% assign paths = page.url | split: '/' %}
+    
+      {% if paths.size == 0 or page.layout == 'home' %}
+        <!-- index page -->
+        <span>{{ site.data.locales[site.lang].tabs.home | capitalize }}</span>
+      {% else %}
+        {% for item in paths %}
+          {% if forloop.first %}
+            <span>
+              <a href="{{ '/' | relative_url }}">
+                {{ site.data.locales[site.lang].tabs.home | capitalize }}
+              </a>
+            </span>
+            
+            {% if page.c contains 'main' or page.c contains 'Main' %}
+            <span>
+              <a href="https://library.yeahgames.net/categories/main" title="You're viewing an item on the Main library collection.">
+                Main
+              </a>
+            </span>
+            {% endif %}
 
-    {% assign paths = page.url | split: '/' %}
-
-    {% if paths.size == 0 or page.layout == 'home' %}
-      <!-- index page -->
-      <span>{{ site.data.locales[site.lang].tabs.home | capitalize }}</span>
-
-    {% else %}
-
-      {% for item in paths %}
-
-        {% if forloop.first %}
-          <span>
-            <a href="{{ '/' | relative_url }}">
-              {{ site.data.locales[site.lang].tabs.home | capitalize }}
-            </a>
-          </span>
-
-        {% elsif forloop.last %}
-
-          {% if page.collection == 'tabs' %}
-            <span>{{ site.data.locales[site.lang].tabs[item] | default: page.title }}</span>
-          {% else %}
-            <span>{{ page.title }}</span>
+            {% if page.permalink contains '/versions' %}
+            <span>
+              <a title="You're viewing a page specifcially related to an item's unique ID." style="color:#ff4747">Item
+              </a>
+            </span>
+              <span>
+                  <a href="https://library.yeahgames.net/item/{{page.uid}}" title="ITEM UID: {{page.uid}}" style="cursor:text!important;border-bottom:none!important;background-color: #ff4747;color: white!important;border-radius: 0.5rem;padding-left: 0.45rem;padding-right: 0.45rem;padding-top: 0.15rem;padding-bottom: 0.15rem;">{{page.uid}}</a>
+              </span>
+              <span>
+                <a href="https://library.yeahgames.net/item/{{page.uid}}/versions">
+                  Version history
+                </a>
+              </span>
+            {% else %}
+              <!-- code for other cases -->
+            {% endif %}
+          {% elsif forloop.last %}
+            {% if page.collection == 'tabs' %}
+              <span>{{ site.data.locales[site.lang].tabs[item] | default: page.title }}</span>
+            {% else %}
+              <span>{{ page.title }}</span>
+            {% endif %}
+          {% elsif page.layout == 'category' or page.layout == 'tag' %}
+            <span>
+              <a href="{{ item | relative_url }}">
+                {{ site.data.locales[site.lang].tabs[item] | default: page.title }}
+              </a>
+            </span>
           {% endif %}
-
-        {% elsif page.layout == 'category' or page.layout == 'tag' %}
-          <span>
-            <a href="{{ item | relative_url }}">
-              {{ site.data.locales[site.lang].tabs[item] | default: page.title }}
-            </a>
-          </span>
-        {% endif %}
-
-      {% endfor %}
-
-    {% endif %}
-
+        {% endfor %}
+      {% endif %}
     </span><!-- endof #breadcrumb -->
+    
 
     <i id="sidebar-trigger" class="fas fa-bars fa-fw"></i>
 
     <div id="topbar-title">
       {% if page.layout == 'home' %}
-        {{- site.data.locales[site.lang].title | default: site.title -}}
+      {{- site.data.locales[site.lang].title | default: site.title -}}
       {% elsif page.collection == 'tabs' or page.layout == 'page' %}
-        {%- capture tab_key -%}{{ page.url | split: '/' }}{%- endcapture -%}
-        {{- site.data.locales[site.lang].tabs[tab_key] | default: page.title -}}
+      {%- capture tab_key -%}{{ page.url | split: '/' }}{%- endcapture -%}
+      {{- site.data.locales[site.lang].tabs[tab_key] | default: page.title -}}
       {% else %}
-        {{- site.data.locales[site.lang].layout[page.layout] | default: page.layout | capitalize -}}
+      {{- site.data.locales[site.lang].layout[page.layout] | default: page.layout | capitalize -}}
       {% endif %}
     </div>
 
-    {% if page.url == 'https://library.yeahgames.net' %}<a href="/search">{% endif %}<i id="search-trigger" class="fas fa-search fa-fw"></i>
-    <span id="search-wrapper" class="align-items-center">
-      <i class="fas fa-search fa-fw"></i>
-      <input class="form-control" id="search-input" type="search"
-        aria-label="search" autocomplete="off" placeholder="{{ site.data.locales[site.lang].search.hint | capitalize }}...">
-    </span>
-    <span id="search-cancel" >{{ site.data.locales[site.lang].search.cancel }}</span>
-    {% if page.url == 'https://library.yeahgames.net' %}</a>{% endif %}
+    {% if page.url == 'https://library.yeahgames.net' %}<a href="/search">{% endif %}<i id="search-trigger"
+        class="fas fa-search fa-fw"></i>
+      <span id="search-wrapper" class="align-items-center">
+        <i class="fas fa-search fa-fw"></i>
+        <input class="form-control" id="search-input" type="search" aria-label="search" autocomplete="off"
+          placeholder="{{ site.data.locales[site.lang].search.hint | capitalize }}...">
+      </span>
+      <span id="search-cancel">{{ site.data.locales[site.lang].search.cancel }}</span>
+      {% if page.url == 'https://library.yeahgames.net' %}</a>{% endif %}
   </div>
 </div>

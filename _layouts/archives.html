@@ -25,6 +25,7 @@ layout: page
       {{ post.date | date: df_strftime_m }}
     </span>
     <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    {% if post.v %}<span {% if post.currentversion %}title="Current version"{% else %}title="Old version"{% endif %} style="cursor:text!important;border-bottom:none!important;margin-left: 0.8rem;{% if post.currentversion %}background-color:#5e9c00;{% else %}background-color: #ff4747;{% endif %}color: white!important;border-radius: 0.5rem;padding-left: 0.45rem;padding-right: 0.45rem;padding-top: 0.15rem;padding-bottom: 0.15rem;">Version {{post.v}}</span>{% endif %}
   </li>
 
   {% if forloop.last %}</ul>{% endif %}

@@ -9,9 +9,6 @@ tags: [archives, about]
 link: https://docs.yeahgames.net/docs/archives
 uid: about-the-archives
 c: Docs
-versions: true
-v: "1"
-currentv: false
 ---
 
 # About archiving with yEAh Games

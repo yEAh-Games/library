@@ -80,8 +80,24 @@ tail_includes:
 <div class="post-meta text-muted">
   <!-- published date -->
   <span>
-    {{ site.data.locales[site.lang].post.posted }}
-    {% include datetime.html date=page.date tooltip=true %}
+    {{ site.data.locales[site.lang].post.posted }} on {% include datetime.html date=page.date tooltip=true %} by <span>
+      {% if page.author %}
+      {% assign authors = page.author %}
+      {% elsif page.authors %}
+      {% assign authors = page.authors %}
+      {% endif %}
+
+      <em>
+        {% if authors %}
+        {% for author in authors %}
+        <a href="http://members.yeahgames.net/@{{author}}">@{{author}}</a>
+        {% unless forloop.last %}</em>, <em>{% endunless %}
+        {% endfor %}
+        {% else %}
+        <a href="{{ site.social.links[0] }}">{{ site.social.name }}</a>
+        {% endif %}
+      </em>
+    </span>
   </span>
 
   <!-- lastmod date -->
@@ -113,24 +129,7 @@ tail_includes:
 
   <div class="d-flex justify-content-between">
     <!-- author(s) -->
-    <span>
-      {% if page.author %}
-      {% assign authors = page.author %}
-      {% elsif page.authors %}
-      {% assign authors = page.authors %}
-      {% endif %}
-
-      <em>
-        {% if authors %}
-        {% for author in authors %}
-        <a href="http://members.yeahgames.net/@{{author}}">@{{author}}</a>
-        {% unless forloop.last %}</em>, <em>{% endunless %}
-        {% endfor %}
-        {% else %}
-        <a href="{{ site.social.links[0] }}">{{ site.social.name }}</a>
-        {% endif %}
-      </em>
-    </span>
+    
 
     <div>
       <!-- page views -->

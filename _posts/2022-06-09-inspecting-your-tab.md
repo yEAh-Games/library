@@ -5,10 +5,9 @@ title: "Inspecting Your Tab!"
 date: 2022-06-09 17:23
 tags: [inspecting, browser, tabs]
 author: guyman147
-categories: [Other useful information, Miscellaneous]
+categories: [Main, Other useful information, Miscellaneous]
 comments: true
 c: Main
-
 ---
 
 <!-- wp:paragraph {"style":{"typography":{"fontSize":"15px"}}} -->

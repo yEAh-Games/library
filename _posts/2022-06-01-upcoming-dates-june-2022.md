@@ -6,7 +6,7 @@ date: 2022-06-01 04:20
 author: guyman147
 comments: true
 c: Main
-categories: [Other useful information, School]
+categories: [Main, Other useful information, School]
 
 ---
 

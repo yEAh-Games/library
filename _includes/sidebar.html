@@ -60,7 +60,7 @@
       {% endcapture %}
 
       {% if url %}
-      <a style="cursor:pointer!important" {% if url contains 'mailto' %}onclick="{{url | remove: "javascript:"}}"{% else %}href="{{ url }}"{% endif %} aria-label="{{ entry.type }}"
+      <a style="cursor:pointer!important" {% if url contains 'github' %}title="Github"{% endif %}{% if url contains 'twitter' %}title="Twitter"{% endif %} {% if url contains 'mailto' %}title="Email"{% if url contains 'feed' %}title="RSS feed"{% endif %} {% endif %} {% if url contains 'mailto' %} title="Email" onclick="{{url | remove: "javascript:"}}"{% else %}href="{{ url }}"{% endif %} aria-label="{{ entry.type }}"
         {% assign link_types = nil %}
         {% unless entry.noblank %}
           {% assign link_types = link_types | append: " noopener" %}
@@ -74,6 +74,7 @@
         {% if link_types %}rel="{{ link_types | lstrip }}"{% endif %}>
         <i class="{{ entry.icon }}"></i>
       </a>
+
       {% endif %}
 
     {% endfor %}

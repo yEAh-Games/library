@@ -16,7 +16,7 @@ link: https://docs.yeahgames.net/docs/ads
 versions: true
 currentversion: true
 v: "2"
-permalink: /item/advertising/version/2
+permalink: /item/advertising/versions/2
 ---
 
 # Advertising on the yEAh Network
