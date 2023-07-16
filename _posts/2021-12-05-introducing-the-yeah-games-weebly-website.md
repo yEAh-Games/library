@@ -4,7 +4,7 @@ title: Introducing the yEAh Games Weebly website!
 date: 2021-12-05 12:40
 author: yeahgamesdevs
 comments: true
-categories: [News, Announcements, Web]
+categories: [News, Announcement, Official, Web]
 link: https://news.yeahgames.net/news/introducing-the-yeah-games-weebly-website/
 c: News
 tags: [announcement, archives, official, old-announcement]

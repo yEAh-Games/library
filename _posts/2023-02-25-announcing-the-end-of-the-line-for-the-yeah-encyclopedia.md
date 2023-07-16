@@ -3,9 +3,9 @@ layout: post
 date: 2023-02-25 12:30
 title:  "Announcing the end of the line for the yEAh Encyclopedia"
 author: tallinn
-categories: [News, Announcements, Official, Products]
+categories: [News, Article, Products]
 image: https://news.yeahgames.net/archive/img/encyclopedias.jpg
-tags: [featured, sticky, retirement]
+tags: [featured, sticky, retirement, network]
 link: https://news.yeahgames.net/news/announcing-the-end-of-the-line-for-the-yeah-encyclopedia 
 c: News
 canonical_url: https://news.yeahgames.net/news/announcing-the-end-of-the-line-for-the-yeah-encyclopedia

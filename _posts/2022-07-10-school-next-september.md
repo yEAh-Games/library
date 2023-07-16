@@ -4,8 +4,8 @@ title: "School next September"
 date: 2022-07-10 21:09
 author: yeahgamesdevs
 comments: true
-categories: [Announcements, Interactive]
-tags: [announcement, interactive-announcements, official, ia, official, discord]
+categories: [News, Announcement, School]
+tags: [school, official, discord]
 c: News
 link: https://news.yeahgames.net/news/school-next-september/
 canonical_url: https://news.yeahgames.net/news/school-next-september/

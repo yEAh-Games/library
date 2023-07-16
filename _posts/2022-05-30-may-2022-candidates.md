@@ -4,7 +4,7 @@ title: Election candidates in the May 2022 yEAh elections
 date: 2022-05-30 18:57
 author: yeahgamesdevs
 comments: true
-categories: [Events, yEAh Elections, May 2022 Elections]
+categories: [News, Article, Events, yEAh Elections, May 2022 Elections]
 tags: [candidates, elections, vote, voting yeah games elections, yeah games elections 2022]
 c: News
 link: https://news.yeahgames.net/news/may-2022-candidates/

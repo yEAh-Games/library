@@ -3,7 +3,7 @@ layout: post
 title: "Revolutionizing the Network: Unleashing the yEAh Dashboard"
 author: tallinn
 date: 10-06-2023
-categories: [Announcements, Official, Release, Network]
+categories: [News, Article, Development, Release, Network]
 image: https://news.yeahgames.net/archive/img/dashboard.png
 tags: [network, dashboard, release]
 c: News
