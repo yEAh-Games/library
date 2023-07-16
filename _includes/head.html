@@ -18,9 +18,6 @@
 
   {% endif %}
 
-  {% capture seo_tags %}
-  {% seo title=false %}
-  {% endcapture %}
 
   {% if page.image %}
   {% assign img = page.image.path | default: page.image %}
@@ -39,20 +36,62 @@
   {%- endcapture -%}
   {% endif %}
 
-  {% assign seo_tags = seo_tags | replace: target, replacement %}
-
   {% endunless %}
 
   {% endif %}
 
-  {{ seo_tags }}
+  <meta property="og:title" content="{{page.title}}" />
+  <meta name="author" content="{% if page.author %}@{{page.author}}{% else %}The yEAh Network{% endif %}" />
+  <meta property="og:locale" content="en-ca" />
+  {% assign first_paragraph = page.content | strip_html | strip_newlines | truncate: 150, "..." %}
+  {% if page.description %}
+  <meta name="description" content="{{ page.description }}">
+  <meta name="og:description" content="{{ page.description }}">
+  {% else %}
+  <meta name="description" content="{{ first_paragraph }}">
+  <meta name="og:description" content="{{ first_paragraph }}">
+  {% endif %}
+  <link rel="canonical" href="{% if page.link %}{{page.link}}{% else %}{{page.url | absolute_url}}{% endif %}" />
+  <meta property="og:url" content="{{page.url | absolute_url}}" />
+  <meta property="og:site_name" content="The yEAh Library" />
 
+  {% if page.image %}
+  {% assign featuredimage = page.image %}
+  {% elsif page.featimg %}
+  {% assign featuredimage = page.featimg %}
+  {% else %}
+  {% assign first_image = page.content | split: '<img ' | last | split: ' src="' | last | split: '"' | first %}
+  {% assign featuredimage = first_image %}
+  {% endif %}
+
+  <meta property="og:image" content="{% if featuredimage contains 'http://' or featuredimage contains 'https://' %}{{featuredimage}}
+{% else %}{% if page.c contains 'news' %}https://news.yeahgames.net/{{featuredimage}}{% endif %}{% endif %}" />
+  <meta property="og:type" content="article" />
+
+  {% assign formatted_date = page.date | date: "%Y-%m-%dT%H:%M:%S%z" %}
+
+  <meta property="article:published_time" content="{{formatted_date}}" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta property="twitter:image" content="{% if featuredimage contains 'http://' or featuredimage contains 'https://' %}{{featuredimage}}
+  {% else %}{% if page.c contains 'news' %}https://news.yeahgames.net/{{featuredimage}}{% endif %}{% endif %}" />
+  <meta property="twitter:title" content="{{page.title}}" />
+  <meta name="twitter:site" content="@yEAhGames_" />
+  <meta name="twitter:creator" content="@yEAhGames_" />
+  <script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"{{page.author}}"},"dateModified":"{{formatted_date}}","datePublished":"{{formatted_date}}","description":"{% if page.description %}{{page.description}}{% else %}{{first_paragraph}}{% endif %}","headline":"{{page.title}}","image":"{% if featuredimage contains 'http://' or featuredimage contains 'https://' %}{{featuredimage}}
+{% else %}{% if page.c contains 'news' %}https://news.yeahgames.net/{{featuredimage}}{% endif %}{% endif %}","mainEntityOfPage":{"@type":"WebPage","@id":"{{page.url | absolute_url}}"},"url":"{{page.url | absolute_url}}"}</script>
+{% capture normaltitle %}
+{%- unless page.layout == "home" -%}
+{{ page.title | append: " | "}}
+{%- endunless -%}
+{{ site.title }}
+{% endcapture %}
+{% if page.permalink contains "/versions" %}<title>Version history of item "{{page.uid}}" | The yEAh Library</title>
+{% else %}
   <title>
-    {%- unless page.layout == "home" -%}
-    {{ page.title | append: " | "}}
-    {%- endunless -%}
-    {{ site.title }}
+  {{normaltitle}} 
   </title>
+  {% endif %}
 
   {% include favicons.html %}
 
@@ -72,9 +111,8 @@
   {% endif %}
 
   <!-- GA -->
-  {% if jekyll.environment == 'production'
-  and site.google_analytics.id != empty and site.google_analytics.id %}
-  <link rel="preconnect" href="https://www.google-analytics.com" crossorigin="use-credentials">
+  {% if jekyll.environment == ' production' and site.google_analytics.id !=empty and site.google_analytics.id %} <link
+    rel="preconnect" href="https://www.google-analytics.com" crossorigin="use-credentials">
   <link rel="dns-prefetch" href="https://www.google-analytics.com">
 
   <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin="anonymous">

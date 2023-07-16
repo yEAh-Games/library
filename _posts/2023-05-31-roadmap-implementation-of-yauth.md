@@ -2,9 +2,9 @@
 layout: post
 title: "Roadmap: Implementation of yAuth"
 author: tallinn
-categories: [Announcements, Official, Development, Timeline]
-image: archive/img/yauth.jpg
-tags: [sticky, network, dev]
+categories: [News, Article, Development]
+image: https://news.yeahgames.net/archive/img/yauth.jpg
+tags: [sticky, network, dev, timeline, yauth]
 link: https://news.yeahgames.net/news/roadmap-implementation-of-yauth
 canonical_url: https://news.yeahgames.net/news/roadmap-implementation-of-yauth
 c: News

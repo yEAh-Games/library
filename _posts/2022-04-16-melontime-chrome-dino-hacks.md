@@ -1,16 +1,14 @@
 ---
-
 layout: post
 title: "MelonTime: Chrome dino hacks download"
 date: 2022-04-16 17:20
 author: yeahgamesdevs
 comments: true
 tags: [download, exploits, hack downloads, hacking, hacks, melontime, official]
-categories: [Docs, Applications, MelonTime]
+categories: [Docs, Development, MelonTime]
 c: Docs
-link: https://docs.yeahgames.net/docs/applications/melontime/chrome-dino/download
-canonical_url: https://docs.yeahgames.net/docs/applications/melontime/chrome-dino/download 
-
+link: https://docs.yeahgames.net/docs/dev/melontime/chrome-dino/
+canonical_url: https://docs.yeahgames.net/docs/dev/melontime/chrome-dino/
 ---
 
 <!-- wp:paragraph -->

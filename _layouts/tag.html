@@ -13,8 +13,13 @@ layout: page
     {% for post in page.posts %}
     <li class="d-flex justify-content-between pl-md-3 pr-md-3">
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      {% if post.v %}
+      <span onclick="window.location.href = '/item/{{post.uid}}/versions'" {% if post.currentversion %}title="Current version"{% else %}title="Old version"{% endif %} style="cursor:pointer!important;border-bottom:none!important;margin-left: 0.8rem;{% if post.currentversion %}background-color:#5e9c00;{% else %}background-color: #ff4747;{% endif %}color: white!important;border-radius: 0.5rem;padding-left: 0.45rem;padding-right: 0.45rem;padding-top: 0.15rem;padding-bottom: 0.15rem;">Version {{post.v}}</span>
+      {% endif %}
       <span class="dash flex-grow-1"></span>
       {% include datetime.html date=post.date wrap='span' class='text-muted small' %}
+      {% if post.v %}
+      {% endif %}
     </li>
     {% endfor %}
   </ul>

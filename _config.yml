@@ -21,12 +21,12 @@ timezone: America/Toronto
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: The yEAh Library                          # the main title
+title: The yEAh Library                      # the main title
 
 tagline: Browse the Archives via the main Library   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  The yEAh Games Library is the best, free way to access yEAh Archives files. Simply open the Library website, and all Archive files will be displayed in a browsable format.
+  The yEAh Games Library is the best way to access yEAh Archives files. Simply open the Library website, and all Archive files will be available in a browsable format.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://library.yeahgames.net'
@@ -40,8 +40,8 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: The yEAh Games Corporation, LLC.
-  email: admin@yeahgames.net           # change to your email address
+  name: The yEAh Archives (yEAh Corp, LLC.)
+  email: library@yeahgames.net           # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/yEAhGames_      # change to your twitter homepage
@@ -83,7 +83,7 @@ theme_mode: dark
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://styles.redditmedia.com/t5_6qdqib/styles/communityIcon_3dz4d1u31mc91.png?width=256&s=46b1501d4a2f96de18481cb24607d15ae2140dd4
+avatar:
 
 # boolean type, the global switch for ToC in posts.
 toc: true

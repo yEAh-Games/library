@@ -32,7 +32,7 @@
         {% assign index = item | split: "::" | last | plus: 0 %}
         {% assign post = site.posts[index] %}
         {% assign url = post.url | relative_url %}
-      <li><a href="{{ url }}">{{ post.title }}</a></li>
+      <li><a title="{{post.title}}" href="{{ url }}">{{ post.title }}</a></li>
       {% endfor %}
     </ul>
   </div> <!-- #access-lastmod -->

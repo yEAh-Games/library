@@ -6,7 +6,7 @@ c: Main
 tags: [cow, image, pro, other useful information]
 author: guyman147
 comments: true
-categories: [Other useful information, Miscellaneous]
+categories: [Main, Other useful information, Miscellaneous]
 ---
 
 <!-- wp:image {"sizeSlug":"large"} -->

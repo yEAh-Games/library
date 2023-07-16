@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "Introducing yeahgames.net!"
+date: 2022-03-03 12:30
+title: "Introducing yeahgames.net!"
 author: nnillat
 c: News
-categories: [News, Announcements, Official, Network]
-image: /news.yeahgames.net/archive/img/yeahgamesnet.png
+categories: [News, Article, Network, Web]
+image: https://news.yeahgames.net/archive/img/yeahgamesnet.png
 link: https://news.yeahgames.net/news/introducing-yeahgames-net
-tags: [network]
+tags: [network, release]
 canonical_url: https://news.yeahgames.net/news/introducing-yeahgames-net
 ---
 
