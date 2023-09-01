@@ -8,7 +8,7 @@ tags:
  - nfts
  - yvfts
 description: Our Master Piece; Recursion of the Mind; believing in oneself.
-link: https://docs.yeahgames.net/docs/network/errors/522
+link: https://docs.yeahgames.net/news/network/nfts/rotm
 categories: [Network, yvfts]
 c: News
 ---
