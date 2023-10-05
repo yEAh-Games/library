@@ -29,7 +29,7 @@ description: >-                        # used by seo meta and the atom feed
   The yEAh Games Library is the best way to access yEAh Archives files. Simply open the Library website, and all Archive files will be available in a browsable format.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://library.yeahgames.net'
+url: 'https://library.ynwk.org'
 
 github:
   username: yEAh-Games             # change to your github username
