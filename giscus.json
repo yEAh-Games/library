@@ -1,4 +1,4 @@
 {
-    "origins": ["https://quotes.ynwk.net", "https://library.ynwk.org", "https://docs.ynwk.org", "https://artifacts.ynwk.org", "https://yankarchive.ynwk.org", "https://gamesarchive.ynwk.org", "https://source.ynwk.org", "https://archive.legal.ynwk.org", "https://yible.ynwk.org", "https://news.ynwk.org"],
+    "origins": ["https://quotes.ynwk.org", "https://library.ynwk.org", "https://docs.ynwk.org", "https://artifacts.ynwk.org", "https://yankarchive.ynwk.org", "https://gamesarchive.ynwk.org", "https://source.ynwk.org", "https://archive.legal.ynwk.org", "https://yible.ynwk.org", "https://news.ynwk.org"],
     "originsRegex": ["https://^(.+\\.)ynwk\\.org$", "https:\\/\\/[a-zA-Z0-9-]+\\-(secure\\.)?ynwk\\.org"]
   }
