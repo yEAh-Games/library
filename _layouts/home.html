@@ -39,7 +39,7 @@ layout: page
     <div class="post-preview">
       <b>
         <h1>
-          {% if post.link %}<a href="{{post.link}}">{% endif %}{% unless post.link %}<a
+          {% if post.link %}<a href="{{post.link | replace: 'yeahgames.net', 'ynwk.org'}}">{% endif %}{% unless post.link %}<a
               href="{{ post.url | prepend: site.baseurl }}">{% endunless %}{{ post.title }}</a>
         </h1>
       </b>
