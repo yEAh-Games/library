@@ -2,7 +2,7 @@
 icon: fas fa-question
 order: 7
 ---
-<meta http-equiv="refresh" content="0;URL='https://docs.yeahgames.net'"/>    
+<meta http-equiv="refresh" content="0;URL='https://docs.ynwk.org'"/>    
 <style>
     html,
     body {

@@ -2,7 +2,7 @@
 icon: fas fa-newspaper
 order: 6
 ---
-<meta http-equiv="refresh" content="0;URL='https://news.yeahgames.net'"/>    
+<meta http-equiv="refresh" content="0;URL='https://news.ynwk.org'"/>    
 <style>
     html,
     body {
