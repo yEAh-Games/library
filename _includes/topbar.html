@@ -21,7 +21,7 @@
             
             {% if page.c contains 'main' or page.c contains 'Main' %}
             <span>
-              <a href="https://library.yeahgames.net/categories/main" title="You're viewing an item on the Main library collection.">
+              <a href="https://library.ynwk.org/categories/main" title="You're viewing an item on the Main library collection.">
                 Main
               </a>
             </span>
@@ -33,10 +33,10 @@
               </a>
             </span>
               <span>
-                  <a href="https://library.yeahgames.net/item/{{page.uid}}" title="ITEM UID: {{page.uid}}" style="cursor:text!important;border-bottom:none!important;background-color: #ff4747;color: white!important;border-radius: 0.5rem;padding-left: 0.45rem;padding-right: 0.45rem;padding-top: 0.15rem;padding-bottom: 0.15rem;">{{page.uid}}</a>
+                  <a href="https://library.ynwk.org/item/{{page.uid}}" title="ITEM UID: {{page.uid}}" style="cursor:text!important;border-bottom:none!important;background-color: #ff4747;color: white!important;border-radius: 0.5rem;padding-left: 0.45rem;padding-right: 0.45rem;padding-top: 0.15rem;padding-bottom: 0.15rem;">{{page.uid}}</a>
               </span>
               <span>
-                <a href="https://library.yeahgames.net/item/{{page.uid}}/versions">
+                <a href="https://library.ynwk.org/item/{{page.uid}}/versions">
                   Version history
                 </a>
               </span>
@@ -74,7 +74,7 @@
       {% endif %}
     </div>
 
-    {% if page.url == 'https://library.yeahgames.net' %}<a href="/search">{% endif %}<i id="search-trigger"
+    {% if page.url == 'https://library.ynwk.org' %}<a href="/search">{% endif %}<i id="search-trigger"
         class="fas fa-search fa-fw"></i>
       <span id="search-wrapper" class="align-items-center">
         <i class="fas fa-search fa-fw"></i>
@@ -82,6 +82,6 @@
           placeholder="{{ site.data.locales[site.lang].search.hint | capitalize }}...">
       </span>
       <span id="search-cancel">{{ site.data.locales[site.lang].search.cancel }}</span>
-      {% if page.url == 'https://library.yeahgames.net' %}</a>{% endif %}
+      {% if page.url == 'https://library.ynwk.org' %}</a>{% endif %}
   </div>
 </div>

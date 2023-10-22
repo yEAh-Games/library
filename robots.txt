@@ -1,4 +1,4 @@
-Sitemap: https://library.yeahgames.net/sitemap.xml
+Sitemap: https://library.ynwk.org/sitemap.xml
 
 User-agent: *
 Disallow: /item//

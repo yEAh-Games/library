@@ -1,11 +1,11 @@
 
 <div id="sidebar" class="d-flex flex-column align-items-end">
   <div class="profile-wrapper text-center">
-    <center><a href="https://www.yeahgames.net"><img src="https://cdn.yeahgames.net/img/branding/logos/text/red.svg" style="max-width: 50% !important;margin-top: 0!important;
+    <center><a href="https://www.ynwk.org"><img src="https://cdn.ynwk.org/img/branding/logos/text/red.svg" style="max-width: 50% !important;margin-top: 0!important;
       margin-bottom: 0.05rem!important;"></a></center>
 
     <div class="site-title">
-      <a href="https://library.yeahgames.net">{{ site.title }}</a>
+      <a href="https://library.ynwk.org">{{ site.title }}</a>
     </div>
   </div><!-- .profile-wrapper -->
 
@@ -21,7 +21,7 @@
     {% for tab in site.tabs %}
     {% capture tab_name %}{{ tab.url | split: '/' }}{% endcapture %}
     <li class="nav-item{% if tab.url == page.url %}{{ " active" }}{% endif %}">
-      <a href="{% if tab.url contains 'quotes' %}https://quotes.yeahgames.net{% else %}{% if tab.url contains 'news' %}https://news.yeahgames.net{% else %}{% if tab.url contains 'docs' %}https://docs.yeahgames.net{% else %}{% if tab.url contains 'collections' %}https://library-collections.yeahgames.net{% else %}{{ tab.url | relative_url }}{% endif %}{% endif %}{% endif %}{% endif %}" class="nav-link">
+      <a href="{% if tab.url contains 'quotes' %}https://quotes.ynwk.org{% else %}{% if tab.url contains 'news' %}https://news.ynwk.org{% else %}{% if tab.url contains 'docs' %}https://docs.ynwk.org{% else %}{% if tab.url contains 'collections' %}https://library-collections.ynwk.org{% else %}{{ tab.url | relative_url }}{% endif %}{% endif %}{% endif %}{% endif %}" class="nav-link">
         <i class="fa-fw {{ tab.icon }} ml-xl-3 mr-xl-3 unloaded"></i>
 
         <span>{{ site.data.locales[site.lang].tabs.[tab_name] | default: tab.title | upcase }}</span>

@@ -2,7 +2,7 @@
 icon: fas fa-quote-left
 order: 8
 ---
-<meta http-equiv="refresh" content="0;URL='https://quotes.yeahgames.net'"/>    
+<meta http-equiv="refresh" content="0;URL='https://quotes.ynwk.org'"/>    
 <style>
     html,
     body {

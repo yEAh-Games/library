@@ -2,7 +2,7 @@
 icon: fas fa-folder-tree
 order: 5
 ---
-<meta http-equiv="refresh" content="0;URL='https://library-collections.yeahgames.net'"/>    
+<meta http-equiv="refresh" content="0;URL='https://library-collections.ynwk.org'"/>    
 <style>
     html,
     body {
